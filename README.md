@@ -1,7 +1,7 @@
 # Hannes Salin
 
 ## About me
-<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=yh4HgFMAAAAJ&citpid=1" align="left" width="125">Head of Unit at Swedish Transport Administration (Trafikverket), within the Department of Information and Communication Technology, managing a unit of more than 60 project leaders, software engineers, test leaders, requirement specialists and team managers. Except work I am also working towards a PhD in cryptography, mainly focusing on secure proxy-based signature and encryption schemes for connected and distributed infrastructure such as smart railway and VANET.
+<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=yh4HgFMAAAAJ&citpid=1" align="left" width="125">Head of Unit at Swedish Transport Administration (Trafikverket), within the Department of Information and Communication Technology, managing a unit of more than 60 project leaders, software engineers, test leaders, requirement specialists and team managers. Except my full-time work, I am also working towards a PhD in cryptography, mainly focusing on secure proxy-based signature and encryption schemes for connected and distributed infrastructure such as smart railway and VANET.
 
 I have more than 7 years of experience as a security software engineer with focus on IT-security and secure software development. I previously worked as Technical Lead and later Head of API Development unit in Nordea Bank, Sweden, and before that as a software security consultant and software engineer. Most projects included finance and banking systems and authentication solutions.
 
@@ -44,11 +44,11 @@ All completed projects since 2017 are listed below:
 
 ## Education
 
-- Wrocław University of Science and Technology, <br>PhD in Cryptography, <br>ongoing
-- Umeå University,<br>Master of Science (M.Sc.) in Mathematics, <br>ongoing
-- Umeå University,<br>Bachelor of Science (B.Sc.) in Mathematics, <br>2021
-- KTH Royal Institute of Technology,<br>Master of Science (M.Sc.) in Computer Science & Engineering,<br>2011 – 2012
-- KTH Royal Institute of Technology,<br>Bachelor of Science (B.Sc.) in Computer Science & Engineering, <br>2008 – 2011
+- Wrocław University of Science and Technology, PhD in Cryptography, <br>ongoing
+- Umeå University, Master of Science (M.Sc.) in Mathematics, <br>ongoing
+- Umeå University, Bachelor of Science (B.Sc.) in Mathematics, <br>2021
+- KTH Royal Institute of Technology, Master of Science (M.Sc.) in Computer Science & Engineering,<br>2011 – 2012
+- KTH Royal Institute of Technology, Bachelor of Science (B.Sc.) in Computer Science & Engineering, <br>2008 – 2011
  
 ## Software
 - Schemes
