@@ -1,10 +1,10 @@
 # Hannes Salin
 
 ## About me
-<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=yh4HgFMAAAAJ&citpid=1" align="left" width="125">Head of Unit at Swedish Transport Administration (Trafikverket), within the Department of Information and Communication Technology, managing a unit of more than 60 project leaders, software engineers, test leaders, requirement specialists and team managers. Except my full-time work, I am also working towards a PhD in cryptography, mainly focusing on secure proxy-based signature and encryption schemes for connected and distributed infrastructure such as smart railway and VANET.
+Head of Unit at Swedish Transport Administration (Trafikverket), within the Department of Information and Communication Technology, managing a unit of more than 60 project leaders, software engineers, test leaders, requirement specialists and team managers. Except my full-time work, I am also working towards a PhD in cryptography, mainly focusing on secure proxy-based signature and encryption schemes for connected and distributed infrastructure such as smart railway and VANET.
 
 I have more than 7 years of experience as a security software engineer with focus on IT-security and secure software development. I previously worked as Technical Lead and later Head of API Development unit in Nordea Bank, Sweden, and before that as a software security consultant and software engineer. Most projects included finance and banking systems and authentication solutions.
-<br clear="left"/>
+
 - [Google Scholar profile](https://scholar.google.com/citations?user=yh4HgFMAAAAJ&hl=sv&oi=ao) 
 - [LinkedIn profile](https://www.linkedin.com/in/hannessalin/)
 - [ORCID: 0000-0001-6327-3565](https://orcid.org/0000-0001-6327-3565)
