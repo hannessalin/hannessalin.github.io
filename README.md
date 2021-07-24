@@ -1,9 +1,9 @@
-# Hannes Salin
-
 ## About me
-Head of Unit at Swedish Transport Administration (Trafikverket), within the Department of Information and Communication Technology, managing a unit of more than 60 project leaders, software engineers, test leaders, requirement specialists and team managers. Except my full-time work, I am also working towards a PhD in cryptography, mainly focusing on secure proxy-based signature and encryption schemes for connected and distributed infrastructure such as smart railway and VANET.
+Head of Unit at Swedish Transport Administration (Trafikverket), within the Department of Information and Communication Technology, managing a unit of more than 60 project leaders, software engineers, test leaders, requirement specialists and team managers. Except my full-time work, I am also working towards a PhD in cryptography, mainly focusing on secure proxy-based signature- and encryption schemes for connected and distributed infrastructures such as smart railways and VANET eco-systems. Particular interests within cryptography are provable security, signcryption, signature schemes, secret sharing and cryptographic accumulators.
 
 I have more than 7 years of experience as a security software engineer with focus on IT-security and secure software development. I previously worked as Technical Lead and later Head of API Development unit in Nordea Bank, Sweden, and before that as a software security consultant and software engineer. Most projects included finance and banking systems and authentication solutions.
+
+In my spare time, excluding research, I spend a lot of time with my family, running, weightlifting, hiking, cross-country skiing, reading fiction and philosophy, and occasionally play and construct board games. 
 
 - [Google Scholar profile](https://scholar.google.com/citations?user=yh4HgFMAAAAJ&hl=sv&oi=ao) 
 - [LinkedIn profile](https://www.linkedin.com/in/hannessalin/)
@@ -12,7 +12,7 @@ I have more than 7 years of experience as a security software engineer with focu
 ## Publications
 
 - H. Salin, [*Pairing-Based Cryptography in Theory and Practice*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (2nd) Bachelor thesis, 2021
-- B. Drzazga, Ł. Krzywiecki, H. Salin, [*Cryptanalysis of Deterministic and Probabilistic  Multi-Copy PDP Schemes For Cloud Storage - Attacks and Countermeasures*](ieeexplore.ieee.org) 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2020.
+- B. Drzazga, Ł. Krzywiecki, H. Salin, [*Cryptanalysis of Deterministic and Probabilistic  Multi-Copy PDP Schemes For Cloud Storage - Attacks and Countermeasures*](ieeexplore.ieee.org) 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2021.
 - Ł. Krzywiecki, H. Salin, N. Panwar and M. Pavlov, [*Proxy Signcryption Scheme for Vehicle Infrastructure Immune to Randomness Leakage and Setup Attacks*](https://ieeexplore.ieee.org/document/9306703), 2020 IEEE 19th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2020, pp. 1-8, doi: 10.1109/NCA51143.2020.9306703.
 - H. Salin, D. Fokin, [*Mission Impossible: Securing Master Keys*](https://arxiv.org/abs/2107.00580), 	arXiv:2107.00580 cs.CR, 2020 (published at ArXiv 2021).
 - H. Salin, [*Providing Secure Randomness in Applied Cryptography*](https://github.com/hannessalin/publications/blob/master/secure-randomness-whitepaper-final.pdf), Whitepaper, 2017
@@ -44,11 +44,11 @@ All completed projects since 2017 are listed below:
 
 ## Education
 
-- Wrocław University of Science and Technology, PhD in Cryptography, <br>ongoing
-- Umeå University, Master of Science (M.Sc.) in Mathematics, <br>ongoing
-- Umeå University, Bachelor of Science (B.Sc.) in Mathematics, <br>2021
-- KTH Royal Institute of Technology, Master of Science (M.Sc.) in Computer Science & Engineering,<br>2011 – 2012
-- KTH Royal Institute of Technology, Bachelor of Science (B.Sc.) in Computer Science & Engineering, <br>2008 – 2011
+- Wrocław University of Science and Technology, PhD in Cryptography, - ongoing (expected 2023)
+- Umeå University, Master of Science (M.Sc.) in Mathematics, - ongoing (expected 2023)
+- Umeå University, Bachelor of Science (B.Sc.) in Mathematics, 2021
+- KTH Royal Institute of Technology, Master of Science (M.Sc.) in Computer Science & Engineering, 2011 – 2012
+- KTH Royal Institute of Technology, Bachelor of Science (B.Sc.) in Computer Science & Engineering, 2008 – 2011
  
 ## Software
 - Schemes
