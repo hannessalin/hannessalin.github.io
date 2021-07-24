@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# Hannes Salin
 
-You can use the [editor on GitHub](https://github.com/hannessalin/hannessalin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About me
+<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=yh4HgFMAAAAJ&citpid=1" align="left" width="125"> Head of Unit at Swedish Transport Administration (Trafikverket), within the Department of Information and Communication Technology, managing a unit of more than 60 project leaders, software engineers, test leaders, requirement specialists and team managers. Except work I am also working towards a PhD in cryptography, mainly focusing on secure proxy-based signature and encryption schemes for connected and distributed infrastructure such as smart railway and VANET.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have more than 7 years of experience as a security software engineer with focus on IT-security and secure software development. I previously worked as Technical Lead and later Head of API Development unit in Nordea Bank, Sweden, and before that as a software security consultant and software engineer. Most projects included finance and banking systems and authentication solutions.
 
-### Markdown
+<br clear="left"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Google Scholar profile](https://scholar.google.com/citations?user=yh4HgFMAAAAJ&hl=sv&oi=ao) 
+- [LinkedIn profile](https://www.linkedin.com/in/hannessalin/)
+- [ORCID: 0000-0001-6327-3565](https://orcid.org/0000-0001-6327-3565)
 
-```markdown
-Syntax highlighted code block
+## Publications
 
-# Header 1
-## Header 2
-### Header 3
+- H. Salin, [*Pairing-Based Cryptography in Theory and Practice*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (2nd) Bachelor thesis, 2021
+- B. Drzazga, Ł. Krzywiecki, H. Salin, [*Cryptanalysis of Deterministic and Probabilistic  Multi-Copy PDP Schemes For Cloud Storage - Attacks and Countermeasures*](ieeexplore.ieee.org) 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2020.
+- Ł. Krzywiecki, H. Salin, N. Panwar and M. Pavlov, [*Proxy Signcryption Scheme for Vehicle Infrastructure Immune to Randomness Leakage and Setup Attacks*](https://ieeexplore.ieee.org/document/9306703), 2020 IEEE 19th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2020, pp. 1-8, doi: 10.1109/NCA51143.2020.9306703.
+- H. Salin, D. Fokin, [*Mission Impossible: Securing Master Keys*](https://arxiv.org/abs/2107.00580), 	arXiv:2107.00580 cs.CR, 2020 (published at ArXiv 2021).
+- H. Salin, [*Providing Secure Randomness in Applied Cryptography*](https://github.com/hannessalin/publications/blob/master/secure-randomness-whitepaper-final.pdf), Whitepaper, 2017
+- H. Salin, [*Gap Analysis in Cooperative Systems within Intelligent Transportation Systems*](http://www.diva-portal.org/smash/record.jsf?dswid=-7649&pid=diva2%3A654430&c=3&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), Master thesis, 2012
+- H. Salin, [*Analysis of Pseudorandom Number Generators: LFSR, LCG and AES-based Algorithms*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A654303&dswid=-9007), (1st) Bachelor thesis, 2012
 
-- Bulleted
-- List
+## Projects
 
-1. Numbered
-2. List
+I have supervised 11 master thesis projects since 2017, with topics primarily on cryptography and IT-security. My contribution included the specification of problem statements, ideas for research, supervising students in research methodology, scientific writing and cryptography. My main responsibilities except supervising activities, is to announce projects, interview candidates and jointly with academia approve resulting master thesis reports.
+All completed projects since 2017 are listed below:
 
-**Bold** and _Italic_ and `Code` text
+- 2021: Supervisor to Emilia Dunfelt for bachelor thesis [*Cloud Data Storage: Review and Comparison of Cryptographic Methods*](http://www.diva-portal.org/)
+- 2021: Supervisor to Malcolm Toräng for master thesis [*Privacy-Preserving Obfuscational Methods for Remotely Based Deep Learning*](http://www.diva-portal.org/)
+- 2021: Supervisor to Andreas Wallström for master thesis [*Guidance on Implementing Agile Software Development Methods within a Traditional Environment*](http://www.diva-portal.org/smash/get/diva2:1564894/FULLTEXT01.pdf)
+- 2020: Supervisor to Nick Nyman for master thesis [*Threat Awareness in Agile Environments: Creating a Developer-Driven Threat Modeling Process for Agile Software Development Teams*](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-276440)
+- 2020: Supervisor to Hannes Lindström for master thesis [*Zero-Knowledge Set Membership Proofs Using Bilinear-Map Accumulators*](http://www.diva-portal.org/smash/get/diva2:1498867/FULLTEXT01.pdf)
+- 2019: Supervisor to Alexander Johansson for master thesis [*Performance analysis of lattice based post-quantum secure cryptography with Java*](http://umu.diva-portal.org/smash/get/diva2:1362877/FULLTEXT01.pdf)
+- 2019: Supervisor to Eleni Zikopi for master thesis [*A case study research on Scrum Framework*](http://kth.diva-portal.org/smash/get/diva2:1337239/FULLTEXT01.pdf)
+- 2019: Supervisor to Sam Tabibzadeh for master thesis [*Inter-Domain Electronic Identification: Challenges, Benefits and Needs*](http://www.diva-portal.org/smash/get/diva2:1326446/FULLTEXT01.pdf)
+- 2018: Supervisor to Dennis Fokin for master thesis [*A secure multi-party scheme with certificateless cryptography for secret key extraction*](http://kth.diva-portal.org/smash/get/diva2:1229379/FULLTEXT01.pdf)
+- 2017: Supervisor to Anton Lindqvist for master thesis [*Privacy Preserving Audit Proofs*](http://www.diva-portal.org/smash/get/diva2:1119313/FULLTEXT02.pdf)
+- 2017: Supervisor to Joel Gärtner for master thesis [*Analysis of Entropy Usage in Random Number Generators*](http://www.diva-portal.org/smash/get/diva2:1141835/FULLTEXT01.pdf)
 
-[Link](url) and ![Image](src)
-```
+## Public lectures
+- [2020: Lecure on Agile and Experiment-oriented Ways of Working, DFS 2020](https://dfs.se/pa_gang/agiladalarna-agila-experiment-pa-nordea/)
+- [2019: Lecture on Transport Layer Security protocol and PKI, DFS 2019](https://dfs.se/pa_gang/kryptera-trafik-i-natverket/)
+- [2018: Lecture on Public Key Infrastructure and Software Development, LulSec 2018](https://dfs.se/pa_gang/pki-dagen/)
+- [2018: Lecture on Secure Software Development and Applied Cryptography, DFS 2018](https://dfs.se/pa_gang/en-djupdykning-i-saker-utveckling-och-kryptografiska-sakerhetshal/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Education
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hannessalin/hannessalin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Wrocław University of Science and Technology, <br>PhD in Cryptography, <br>ongoing
+- Umeå University,<br>Master of Science (M.Sc.) in Mathematics, <br>ongoing
+- Umeå University,<br>Bachelor of Science (B.Sc.) in Mathematics, <br>2021
+- KTH Royal Institute of Technology,<br>Master of Science (M.Sc.) in Computer Science & Engineering,<br>2011 – 2012
+- KTH Royal Institute of Technology,<br>Bachelor of Science (B.Sc.) in Computer Science & Engineering, <br>2008 – 2011
+ 
+## Software
+- Schemes
+- Python solutions to Project Euler
+- Rust solutions to Project Euler
