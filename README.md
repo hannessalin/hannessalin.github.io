@@ -1,3 +1,4 @@
+# Hannes Salin
 ## About me
 Head of Unit at Swedish Transport Administration (Trafikverket), within the Department of Information and Communication Technology, managing a unit of more than 60 project leaders, software engineers, test leaders, requirement specialists and team managers. Except my full-time work, I am also working towards a PhD in cryptography, under the supervision of associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/), Wrocław University of Science and Technology. My main research focus is on secure proxy-based signature and encryption schemes for connected and distributed infrastructures such as smart railways and VANET eco-systems. Particular interests within cryptography are provable security, signcryption, signature schemes, secret sharing and cryptographic accumulators.
 
