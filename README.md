@@ -52,5 +52,5 @@ All completed projects since 2017 are listed below:
 - KTH Royal Institute of Technology, Bachelor of Science (B.Sc.) in Computer Science & Engineering, 2011
  
 ## Software
-- [Proof of concept: SIGMA key splitting schemes (JavaScript, WASM)](mod-bls-sigma.42web.io)
+- [Proof of concept: SIGMA key splitting schemes (JavaScript, WASM)](http://mod-bls-sigma.42web.io)
 - Solutions to Project Euler
