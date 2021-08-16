@@ -25,7 +25,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 I have supervised 11 master thesis projects since 2017, with topics primarily on cryptography and IT-security. My contribution included the specification of problem statements, ideas for research, supervising students in research methodology, scientific writing and cryptography. My main responsibilities except supervising activities, is to announce projects, interview candidates and jointly with academia approve resulting master thesis reports.
 All completed projects since 2017 are listed below:
 
-- 2021: Supervisor to Emilia Dunfelt for bachelor thesis [*Cloud Data Storage: Review and Comparison of Cryptographic Methods*](http://www.diva-portal.org/)
+- 2021: Supervisor to Emilia Dunfelt for bachelor thesis [*Cloud Data Storage: Review and Comparison of Cryptographic Methods*](https://kurser.math.su.se/pluginfile.php/105616/mod_folder/content/0/2021/2021_dunfelt_emilia.pdf?forcedownload=1)
 - 2021: Supervisor to Malcolm Toräng for master thesis [*Privacy-Preserving Obfuscational Methods for Remotely Based Deep Learning*](http://www.diva-portal.org/)
 - 2021: Supervisor to Andreas Wallström for master thesis [*Guidance on Implementing Agile Software Development Methods within a Traditional Environment*](http://www.diva-portal.org/smash/get/diva2:1564894/FULLTEXT01.pdf)
 - 2020: Supervisor to Nick Nyman for master thesis [*Threat Awareness in Agile Environments: Creating a Developer-Driven Threat Modeling Process for Agile Software Development Teams*](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-276440)
