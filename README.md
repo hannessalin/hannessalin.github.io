@@ -13,7 +13,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 ## Publications
 
 - H. Salin, D. Fokin, A. Johansson, [*Authenticated Multi-Proxy Accumulation Schemes for Delegated Membership Proofs*](https://ieeexplore.ieee.org/document/9306703), Risks and Security of Internet and Systems. CRiSIS 2021. Lecture Notes in Computer Science, vol 12528. Springer, Cham. 
-- Ł. Krzywiecki, A. Polubek H. Salin, [*Multi-Signature Scheme Resistant to Randomness Injection Attacks – A Bitcoin Case*](https://ieeexplore.ieee.org/document/9306703), 2021 IEEE 20th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2021
+- Ł. Krzywiecki, A. Polubek, H. Salin, [*Multi-Signature Scheme Resistant to Randomness Injection Attacks – A Bitcoin Case*](https://ieeexplore.ieee.org/document/9306703), 2021 IEEE 20th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2021
 - Ł. Krzywiecki, H. Salin, M. Jachniak, [*Certificateless Multi-Party Authenticated Encryption Mitigating Ephemeral Key Leakage*](https://ieeexplore.ieee.org/document/9306703), 2021 IEEE 20th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2021
 - H. Salin, [*Pairing-Based Cryptography in Theory and Practice*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (2nd) Bachelor thesis, 2021
 - B. Drzazga, Ł. Krzywiecki, H. Salin, [*Cryptanalysis of Deterministic and Probabilistic  Multi-Copy PDP Schemes For Cloud Storage - Attacks and Countermeasures*](ieeexplore.ieee.org) 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2021.
@@ -49,11 +49,14 @@ All completed projects since 2017 are listed below:
 ## Education
 
 - Wrocław University of Science and Technology, PhD in Cryptography, - ongoing (expected 2023)
-- Umeå University, Bachelor of Arts (BA) in Philosophy, - ongoing (expected 2022)
 - Umeå University, Master of Science (M.Sc.) in Mathematics, - ongoing (expected 2023)
+- Umeå University, Bachelor of Arts (BA) in Philosophy, - ongoing (expected 2022)
 - Umeå University, Bachelor of Science (B.Sc.) in Mathematics, 2021
+    - [*Thesis*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) 
 - KTH Royal Institute of Technology, Master of Science (M.Sc.) in Computer Science & Engineering, 2012
+    - [*Thesis*](http://www.diva-portal.org/smash/record.jsf?dswid=-7649&pid=diva2%3A654430&c=3&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) 
 - KTH Royal Institute of Technology, Bachelor of Science (B.Sc.) in Computer Science & Engineering, 2011
+    - [*Thesis*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A654303&dswid=-9007)
  
 ## Software
 - [Proof of concept: SIGMA key splitting schemes (JavaScript, WASM)](http://mod-bls-sigma.42web.io)
