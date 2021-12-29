@@ -49,6 +49,7 @@ All completed projects since 2017 are listed below:
 ## Education
 
 - Wrocław University of Science and Technology, PhD in Cryptography, - ongoing (expected 2023)
+- Umeå University, Bachelor of Arts (BA) in Philosophy, - ongoing (expected 2022)
 - Umeå University, Master of Science (M.Sc.) in Mathematics, - ongoing (expected 2023)
 - Umeå University, Bachelor of Science (B.Sc.) in Mathematics, 2021
 - KTH Royal Institute of Technology, Master of Science (M.Sc.) in Computer Science & Engineering, 2012
