@@ -12,14 +12,16 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 ## Publications
 
+- H. Salin, M. Lundgren, [*Towards Agile Cybersecurity Risk Management for Autonomous Software Engineering Teams*](https://www.mdpi.com/2624-800X/2/2/15), Journal of Cybersecurity and Privacy 2 (2), 276-291
+- H. Salin, D. Fokin, [*An Authenticated Accumulator Scheme for Secure Master Key Access in Microservice Architectures*](https://www.scitepress.org/Link.aspx?doi=10.5220/0010989400003194), Proceedings of the 7th International Conference on Internet of Things, Big Data and Security - IoTBDS, 119-126, 2022
 - H. Salin, D. Fokin, A. Johansson, [*Authenticated Multi-Proxy Accumulation Schemes for Delegated Membership Proofs*](https://ieeexplore.ieee.org/document/9306703), Risks and Security of Internet and Systems. CRiSIS 2021. Lecture Notes in Computer Science, vol 12528. Springer, Cham. 
 - Ł. Krzywiecki, A. Polubek, H. Salin, [*Multi-Signature Scheme Resistant to Randomness Injection Attacks – A Bitcoin Case*](https://ieeexplore.ieee.org/document/9306703), 2021 IEEE 20th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2021
 - Ł. Krzywiecki, H. Salin, M. Jachniak, [*Certificateless Multi-Party Authenticated Encryption Mitigating Ephemeral Key Leakage*](https://ieeexplore.ieee.org/document/9306703), 2021 IEEE 20th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2021
-- H. Salin, [*Pairing-Based Cryptography in Theory and Practice*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (2nd) Bachelor thesis, 2021
 - B. Drzazga, Ł. Krzywiecki, H. Salin, [*Cryptanalysis of Deterministic and Probabilistic  Multi-Copy PDP Schemes For Cloud Storage - Attacks and Countermeasures*](ieeexplore.ieee.org) 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2021.
 - Ł. Krzywiecki, H. Salin, N. Panwar and M. Pavlov, [*Proxy Signcryption Scheme for Vehicle Infrastructure Immune to Randomness Leakage and Setup Attacks*](https://ieeexplore.ieee.org/document/9306703), 2020 IEEE 19th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2020, pp. 1-8, doi: 10.1109/NCA51143.2020.9306703.
 - H. Salin, D. Fokin, [*Mission Impossible: Securing Master Keys*](https://arxiv.org/abs/2107.00580), 	arXiv:2107.00580 cs.CR, 2020 (published at ArXiv 2021).
 - H. Salin, [*Providing Secure Randomness in Applied Cryptography*](https://github.com/hannessalin/publications/blob/master/secure-randomness-whitepaper-final.pdf), Whitepaper, 2017
+- H. Salin, [*Pairing-Based Cryptography in Theory and Practice*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (2nd) Bachelor thesis, 2021
 - H. Salin, [*Gap Analysis in Cooperative Systems within Intelligent Transportation Systems*](http://www.diva-portal.org/smash/record.jsf?dswid=-7649&pid=diva2%3A654430&c=3&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), Master thesis, 2012
 - H. Salin, [*Analysis of Pseudorandom Number Generators: LFSR, LCG and AES-based Algorithms*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A654303&dswid=-9007), (1st) Bachelor thesis, 2012
 
@@ -60,4 +62,3 @@ All completed projects since 2017 are listed below:
  
 ## Software
 - [Proof of concept: SIGMA key splitting schemes (JavaScript, WASM)](http://mod-bls-sigma.42web.io)
-- Solutions to Project Euler
