@@ -1,5 +1,5 @@
 ## Hannes Salin
-Head of Department at the Swedish Transport Administration (Trafikverket), within the Division of Information and Communication Technology, managing a department of more than 60 project leaders, software engineers, test leaders, requirement specialists and managers. Except my full-time work, I am also working towards a PhD in cryptography, under the supervision of associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/), Wrocław University of Science and Technology. My main research focus is on secure multi proxy-based signature and encryption schemes for connected and distributed infrastructures such as smart railways and VANET eco-systems. Particular interests within cryptography are provable security, signcryption, signature schemes, secret sharing and cryptographic accumulators. I am also working towards a PhD in microdata analysis at Dalarna University, under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering.  
+Head of Department at the Swedish Transport Administration (Trafikverket), within the Division of Information and Communication Technology, managing a department of more than 60 project leaders, software engineers, test leaders, requirement specialists and managers. Except my full-time work, I am also working towards a PhD in cryptography, under the supervision of associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/), Wrocław University of Science and Technology. My main research focus is secure group oriented signature and encryption schemes for connected and distributed infrastructures such as VANET and smart railway eco-systems. Particular interests within cryptography are provable security, signature schemes, secret sharing and cryptographic accumulators. I am also working towards a PhD in microdata analysis at Dalarna University, under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering, with a particular focus on management decision makers, combining organizational- and management theory with statistical analysis and data science.  
 
 I have more than 7 years of experience as a security software engineer with focus on IT-security and secure software development. I previously worked as technical lead and later head of API development Sweden, at Nordea Bank, and before that as a software security consultant and software engineer. I have primarily worked with (IT-security) projects in the finance/banking and infrastructure domain. Technology stacks and areas of expertise/experience are software development in {C/C++, Java, Python, Rust}, crypto development with {jPBC, MCL, BouncyCastle, JCA}, Spring/Spring Boot, Thales Hardware Security Modules, Docker, Secure Software Development Lifecycle (SDLC) development and test automation.
 
@@ -10,17 +10,25 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 <img src="https://trip4077.github.io/Portfolio-Site/img/linkedin.png" width="30"> [LinkedIn](https://www.linkedin.com/in/hannessalin/)&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" width="30">[ORCID](https://orcid.org/0000-0001-6327-3565)
 
-## Publications
+## Publications for my PhD in Cryptography
 
-- H. Salin, M. Lundgren, [*Towards Agile Cybersecurity Risk Management for Autonomous Software Engineering Teams*](https://www.mdpi.com/2624-800X/2/2/15), Journal of Cybersecurity and Privacy 2 (2), 276-291
+- Ł Krzywiecki, H Salin, [*How to Design Authenticated Key Exchange for Wearable Devices: Cryptanalysis of AKE for Health Monitoring and Countermeasures via Distinct SMs with Key Split and Refresh*](https://link.springer.com/chapter/10.1007/978-3-031-20974-1_11), International Conference on Cryptology and Network Security, 225-244, 2022
 - H. Salin, D. Fokin, [*An Authenticated Accumulator Scheme for Secure Master Key Access in Microservice Architectures*](https://www.scitepress.org/Link.aspx?doi=10.5220/0010989400003194), Proceedings of the 7th International Conference on Internet of Things, Big Data and Security - IoTBDS, 119-126, 2022
 - H. Salin, D. Fokin, A. Johansson, [*Authenticated Multi-Proxy Accumulation Schemes for Delegated Membership Proofs*](https://ieeexplore.ieee.org/document/9306703), Risks and Security of Internet and Systems. CRiSIS 2021. Lecture Notes in Computer Science, vol 12528. Springer, Cham. 
 - Ł. Krzywiecki, A. Polubek, H. Salin, [*Multi-Signature Scheme Resistant to Randomness Injection Attacks – A Bitcoin Case*](https://ieeexplore.ieee.org/document/9306703), 2021 IEEE 20th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2021
 - Ł. Krzywiecki, H. Salin, M. Jachniak, [*Certificateless Multi-Party Authenticated Encryption Mitigating Ephemeral Key Leakage*](https://ieeexplore.ieee.org/document/9306703), 2021 IEEE 20th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2021
 - B. Drzazga, Ł. Krzywiecki, H. Salin, [*Cryptanalysis of Deterministic and Probabilistic  Multi-Copy PDP Schemes For Cloud Storage - Attacks and Countermeasures*](ieeexplore.ieee.org) 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2021.
 - Ł. Krzywiecki, H. Salin, N. Panwar and M. Pavlov, [*Proxy Signcryption Scheme for Vehicle Infrastructure Immune to Randomness Leakage and Setup Attacks*](https://ieeexplore.ieee.org/document/9306703), 2020 IEEE 19th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2020, pp. 1-8, doi: 10.1109/NCA51143.2020.9306703.
-- H. Salin, D. Fokin, [*Mission Impossible: Securing Master Keys*](https://arxiv.org/abs/2107.00580), 	arXiv:2107.00580 cs.CR, 2020 (published at ArXiv 2021).
+
+## Publications for my PhD in Microdata Analysis
+- Salin, H., Rybarczyk, Y., Han, M., & Nyberg, R. G. [*Quality Metrics for Software Development Management and Decision Making: An Analysis of Attitudes and Decisions*](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_37). In International Conference on Product-Focused Software Process Improvement (pp. 525-530). Springer, Cham., 2022
+
+## Other publications
+- H. Salin, M. Lundgren, [*Towards Agile Cybersecurity Risk Management for Autonomous Software Engineering Teams*](https://www.mdpi.com/2624-800X/2/2/15), Journal of Cybersecurity and Privacy 2 (2), 276-291
 - H. Salin, [*Providing Secure Randomness in Applied Cryptography*](https://github.com/hannessalin/publications/blob/master/secure-randomness-whitepaper-final.pdf), Whitepaper, 2017
+- H. Salin, D. Fokin, [*Mission Impossible: Securing Master Keys*](https://arxiv.org/abs/2107.00580), 	arXiv:2107.00580 cs.CR, 2020 (published at ArXiv 2021).
+
+## Thesis
 - H. Salin, [*Pairing-Based Cryptography in Theory and Practice*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (2nd) Bachelor thesis, 2021
 - H. Salin, [*Gap Analysis in Cooperative Systems within Intelligent Transportation Systems*](http://www.diva-portal.org/smash/record.jsf?dswid=-7649&pid=diva2%3A654430&c=3&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), Master thesis, 2012
 - H. Salin, [*Analysis of Pseudorandom Number Generators: LFSR, LCG and AES-based Algorithms*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A654303&dswid=-9007), (1st) Bachelor thesis, 2012
@@ -51,8 +59,9 @@ All completed projects since 2017 are listed below:
 ## Education
 
 - Wrocław University of Science and Technology, PhD in Cryptography, - ongoing (expected 2023)
-- Umeå University, Master of Science (M.Sc.) in Mathematics, - ongoing (expected 2023)
-- Umeå University, Bachelor of Arts (BA) in Philosophy, - ongoing (expected 2022)
+- Dalarna University, PhD in Microdata Analysis, - ongoing (expected 2026)
+- Umeå University, Master of Science (M.Sc.) in Mathematics, - ongoing (on hold)
+- Umeå University, Bachelor of Arts (BA) in Philosophy, - ongoing (expected 2023)
 - Umeå University, Bachelor of Science (B.Sc.) in Mathematics, 2021
     - [*Thesis*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) 
 - KTH Royal Institute of Technology, Master of Science (M.Sc.) in Computer Science & Engineering, 2012
