@@ -34,6 +34,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 - Salin,H., Fokin,D., [*Mission Impossible: Securing Master Keys*](https://arxiv.org/abs/2107.00580), 	arXiv:2107.00580 cs.CR, 2020 (published at ArXiv 2021).
 
 ## Thesis
+- Salin,H. [*On Russell’s Paradox and Attempted Resolutions*](http://www.diva-portal.org/smash/record.jsf?dswid=-5163&pid=diva2%3A1767620&c=5&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (3rd) Bachelor thesis, 2023
 - Salin,H. [*Pairing-Based Cryptography in Theory and Practice*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (2nd) Bachelor thesis, 2021
 - Salin,H. [*Gap Analysis in Cooperative Systems within Intelligent Transportation Systems*](http://www.diva-portal.org/smash/record.jsf?dswid=-7649&pid=diva2%3A654430&c=3&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), Master thesis, 2012
 - Salin,H. [*Analysis of Pseudorandom Number Generators: LFSR, LCG and AES-based Algorithms*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A654303&dswid=-9007), (1st) Bachelor thesis, 2012
@@ -66,7 +67,8 @@ All completed projects since 2017 are listed below:
 - Wrocław University of Science and Technology, PhD in Cryptography, - ongoing (expected 2023)
 - Dalarna University, PhD in Microdata Analysis, - ongoing (expected 2026)
 - Umeå University, Master of Science (M.Sc.) in Mathematics, - ongoing (on hold)
-- Umeå University, Bachelor of Arts (BA) in Philosophy, - ongoing (expected 2023)
+- Umeå University, Bachelor of Arts (BA) in Philosophy, 2023
+     - [*Thesis*](http://www.diva-portal.org/smash/record.jsf?dswid=-5163&pid=diva2%3A1767620&c=5&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 - Umeå University, Bachelor of Science (B.Sc.) in Mathematics, 2021
     - [*Thesis*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) 
 - KTH Royal Institute of Technology, Master of Science (M.Sc.) in Computer Science & Engineering, 2012
