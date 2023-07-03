@@ -10,7 +10,10 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35">[GitHub](https://github.com/hannessalin)&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" width="35">[Google Scholar](https://scholar.google.com/citations?user=yh4HgFMAAAAJ&hl=sv&oi=ao)&nbsp;&nbsp;
 <img src="https://trip4077.github.io/Portfolio-Site/img/linkedin.png" width="30"> [LinkedIn](https://www.linkedin.com/in/hannessalin/)&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" width="30">[ORCID](https://orcid.org/0000-0001-6327-3565)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" width="30">[ORCID](https://orcid.org/0000-0001-6327-3565)&nbsp;&nbsp;
+<img src="https://i.stack.imgur.com/3zEkd.png" width="30">[Researchgate](https://www.researchgate.net/profile/Hannes-Salin)
+
+
 
 ## Publications for my PhD in Cryptography
 
