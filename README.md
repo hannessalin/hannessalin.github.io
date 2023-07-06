@@ -46,7 +46,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 ## Projects
 
-I have supervised 11 master thesis projects since 2017, with topics primarily on cryptography and IT-security. My contribution included the specification of problem statements, ideas for research, supervising students in research methodology, scientific writing and cryptography. My main responsibilities except supervising activities, is to announce projects, interview candidates and jointly with academia approve resulting master thesis reports.
+I have supervised 11 master thesis projects and 1 bachelor thesis project since 2017, with topics primarily on cryptography and IT-security. My contribution included the specification of problem statements, ideas for research, supervising students in research methodology, scientific writing and cryptography. My main responsibilities except supervising activities, is to announce projects, interview candidates and jointly with academia approve resulting master thesis reports.
 All completed projects since 2017 are listed below:
 
 - 2023: Supervisor to Siri Nordlander for master thesis [*Implementation of Intelligent Transport Systems Within Road Transport – An Investigation of the Current Implementation and an Exploration of the Potential and Intentions of Future Implementations*](http://www.diva-portal.org/smash/record.jsf?dswid=-8382&pid=diva2%3A1772437&c=2&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
