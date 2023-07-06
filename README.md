@@ -3,7 +3,8 @@
 <img src="/hannes-du-profile.jpeg" alt="Picture of Hanne Salin" style="width:200px; float:left; margin-right:10px;"/>
 I am currently the head of department of Road IT at the Swedish Transport Administration (STA), within the Division of Information and Communication Technology (ICT), managing a department of more than 70 project leaders, software engineers, test leaders, requirement specialists, architects and managers. Except my full-time work at STA, I am also working towards a PhD in cryptography, under the supervision of associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/) at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). My main research focus is secure group oriented signature and encryption schemes for connected and distributed infrastructures such as VANET and smart railway eco-systems. Particular interests within cryptography are provable security, signature schemes, and cryptographic accumulators. I am also working towards a PhD in microdata analysis at [Dalarna University](https://www.du.se/en), under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering, with a particular focus on inter- and transdisciplinary methods including managerial decision-making, combining organizational- and management theory with statistical analysis and data science.  
 
-I have more than 7 years of experience as a security software engineer with focus on IT-security and secure software development. I previously worked as technical lead and later head of API development Sweden, at Nordea Bank, and before that as a software security consultant and software engineer. I have primarily worked with (IT-security) projects in the finance/banking and infrastructure domain. 
+I have more than 7 years of experience as a security software engineer and developer with focus on IT-security and secure software development, and 5 years of experience as a manager including middle- and top management levels. I have primarily worked within 
+finance and banking, and more recently the infrastructure domain.
 
 In my spare time, excluding research, I spend a lot of time with my family, running, weightlifting, hiking, cross-country skiing, reading fiction, philosophy and mathematics, and occasionally play and construct board games. 
 
@@ -30,6 +31,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 ## Publications for my PhD in Microdata Analysis
 - Salin, H., Rybarczyk, Y., Han, M., & Nyberg, R. G. [*Quality Metrics for Software Development Management and Decision Making: An Analysis of Attitudes and Decisions*](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_37). In International Conference on Product-Focused Software Process Improvement (pp. 525-530). Springer, Cham., 2022
+- Salin, H., Albrecht, F., Skov, J. [*The Power of Scrum Mastery: An Analysis of Agile Team Performance and Scrum Master Influence*](www.springer.com). In Proceedings of the 18th International Conference on Software Technologies, ISBN 978-989-758-665-1, ISSN 2184-2833, pages 377-384., 2023
 
 ## Other publications
 - Salin,H., Lundgren,M., [*Towards Agile Cybersecurity Risk Management for Autonomous Software Engineering Teams*](https://www.mdpi.com/2624-800X/2/2/15), Journal of Cybersecurity and Privacy 2 (2), 276-291
