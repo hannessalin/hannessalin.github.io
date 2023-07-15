@@ -1,10 +1,9 @@
 ## Hannes Salin
 
 <img src="/hannes-du-profile.jpeg" alt="Picture of Hanne Salin" style="width:200px; float:left; margin-right:10px;"/>
-I am currently the head of department of Road IT at the Swedish Transport Administration (STA), within the Division of Information and Communication Technology (ICT), managing a department of more than 70 project leaders, software engineers, test leaders, requirement specialists, architects and managers. Except my full-time work at STA, I am also working towards a PhD in cryptography, under the supervision of associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/) at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). My main research focus is secure group oriented signature and encryption schemes for connected and distributed infrastructures such as VANET and smart railway eco-systems. Particular interests within cryptography are provable security, signature schemes, and cryptographic accumulators. I am also working towards a PhD in microdata analysis at [Dalarna University](https://www.du.se/en), under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering, with a particular focus on inter- and transdisciplinary methods including managerial decision-making, combining organizational- and management theory with statistical analysis and data science.  
+I am currently the head of department (leading leaders) of Road IT at the Swedish Transport Administration (STA), within the Division of Information and Communication Technology (ICT), managing a department of more than 70 project leaders, software engineers, test leaders, requirement specialists, architects and engineering managers. Except my full-time work at STA, I am also working towards a PhD in cryptography, under the supervision of associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/) at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). My main research focus is secure group oriented signature and encryption schemes for connected and distributed infrastructures such as VANET and smart railway eco-systems. Particular interests within cryptography are provable security, signature schemes, and cryptographic accumulators. I am also working towards a PhD in microdata analysis at [Dalarna University](https://www.du.se/en), under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering, with a particular focus on inter- and transdisciplinary methods for managerial decision-making, combining organizational- and management theory with statistical analysis and data science.  
 
-I have more than 7 years of experience as a security software engineer and developer with focus on IT-security and secure software development, and 5 years of experience as a manager including middle- and top management levels. I have primarily worked within 
-finance and banking, and more recently the infrastructure domain. Since 2021 I am holding a senior IEEE membership.
+I have more than **7 years** of experience as a security software engineer and system developer with focus on IT-security and secure software development, and **5 years** of experience as a manager including middle- and top management levels. I have primarily worked within finance and banking, and more recently the infrastructure domain. Since 2021 I am holding a senior IEEE membership.
 
 In my spare time, excluding research, I spend a lot of time with my family, running, weightlifting, hiking, cross-country skiing, reading fiction, philosophy and mathematics, and occasionally play and construct board games. 
 
@@ -33,7 +32,7 @@ gent Transportation Systems (C-ITS)*](www.springer.se). 18th International Confe
 
 ## Publications for my PhD in Microdata Analysis
 - Salin, H., Rybarczyk, Y., Han, M., & Nyberg, R. G. [*Quality Metrics for Software Development Management and Decision Making: An Analysis of Attitudes and Decisions*](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_37). In International Conference on Product-Focused Software Process Improvement (pp. 525-530). Springer, Cham., 2022
-- Salin, H., Albrecht, F., Skov, J. [*The Power of Scrum Mastery: An Analysis of Agile Team Performance and Scrum Master Influence*](www.springer.com). In Proceedings of the 18th International Conference on Software Technologies, ISBN 978-989-758-665-1, ISSN 2184-2833, pages 377-384., 2023
+- Salin, H., Albrecht, F., Skov, J. [*The Power of Scrum Mastery: An Analysis of Agile Team Performance and Scrum Master Influence*](https://www.scitepress.org/PublicationsDetail.aspx?ID=yL8/BLoiaIs=&t=1). In Proceedings of the 18th International Conference on Software Technologies, ISBN 978-989-758-665-1, ISSN 2184-2833, pages 377-384., 2023
 
 ## Other publications
 - Salin,H., Lundgren,M., [*Towards Agile Cybersecurity Risk Management for Autonomous Software Engineering Teams*](https://www.mdpi.com/2624-800X/2/2/15), Journal of Cybersecurity and Privacy 2 (2), 276-291
@@ -72,8 +71,8 @@ All completed projects since 2017 are listed below:
 
 ## Education
 
-- Wrocław University of Science and Technology, PhD in Cryptography, - ongoing (expected 2023)
-- Dalarna University, PhD in Microdata Analysis, - ongoing (expected 2026)
+- Wrocław University of Science and Technology, Poland, PhD in Cryptography, - ongoing (expected 2023)
+- Dalarna University, Sweden, PhD in Microdata Analysis, - ongoing (expected 2026)
 - Umeå University, Master of Science (M.Sc.) in Mathematics, - ongoing (on hold)
 - Umeå University, Bachelor of Arts (BA) in Philosophy, 2023
      - [*Thesis*](http://www.diva-portal.org/smash/record.jsf?dswid=-5163&pid=diva2%3A1767620&c=5&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
@@ -86,3 +85,7 @@ All completed projects since 2017 are listed below:
  
 ## Software
 - [Proof of concept: SIGMA key splitting schemes (JavaScript, WASM)](http://mod-bls-sigma.42web.io)
+- [Hidden Markov Modeling](www.github.com)
+
+## References
+Will be shared upon request.
