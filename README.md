@@ -71,9 +71,9 @@ All completed projects since 2017 are listed below:
 
 ## Education
 
-- Wrocław University of Science and Technology, Poland, PhD in Cryptography, - ongoing (expected 2023)
-- Dalarna University, Sweden, PhD in Microdata Analysis, - ongoing (expected 2026)
-- Umeå University, Master of Science (M.Sc.) in Mathematics, - ongoing (on hold)
+- Wrocław University of Science and Technology, Poland, PhD in Cryptography, - ongoing (expected 2023/24)
+- Dalarna University, Sweden, PhD in Microdata Analysis, - ongoing (expected 2025/26)
+- Blekinge Institute of Technology, Master in Business Administration (MBA), - ongoing (expected 2025)
 - Umeå University, Bachelor of Arts (BA) in Philosophy, 2023
      - [*Thesis*](http://www.diva-portal.org/smash/record.jsf?dswid=-5163&pid=diva2%3A1767620&c=5&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 - Umeå University, Bachelor of Science (B.Sc.) in Mathematics, 2021
@@ -83,6 +83,20 @@ All completed projects since 2017 are listed below:
 - KTH Royal Institute of Technology, Bachelor of Science (B.Sc.) in Computer Science & Engineering, 2011
     - [*Thesis*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A654303&dswid=-9007)
  
+## Languages
+
+- Swedish (native)
+- English (professional)
+- French (beginner, A1)
+
+## Athletic Achievements and Other Accomplishments
+
+- 6th place (of 64 teams), [Para Endurance Race 2019](https://paraendurance.org), 70 km rucking and land navigation
+- Successfully graduated as a ranger squad leader in the [Swedish Army Ranger Batalion](https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/?TSPD_101_R0=08054bd396ab20005ebc657309951d0f50fc33e0f93393dcfedd8f94f9747cb8862ab6422333eadc08a148d1b914300052b41cb2294bea8a7859c8b33df9544f85dbac772ffce7b3bde13bb377f522561bc6a680715ef23588ef2f5541303bb2), 2005-2006
+- Numerous top 3 placings 1995-1999, Swedish National Karate Youth competitions
+- Assistant Karate instructor, Kan Zen Kai Karate, 1996-2001
+
+
 ## Software
 - [Proof of concept: SIGMA key splitting schemes (JavaScript, WASM)](http://mod-bls-sigma.42web.io)
 - [Hidden Markov Modeling](www.github.com)
