@@ -35,6 +35,7 @@ gent Transportation Systems (C-ITS)*](www.springer.se). 18th International Confe
 - Salin, H., Albrecht, F., Skov, J. [*The Power of Scrum Mastery: An Analysis of Agile Team Performance and Scrum Master Influence*](https://www.scitepress.org/PublicationsDetail.aspx?ID=yL8/BLoiaIs=&t=1). In Proceedings of the 18th International Conference on Software Technologies, ISBN 978-989-758-665-1, ISSN 2184-2833, pages 377-384., 2023
 
 ## Other publications
+- Salin,H., Lundgren,M., [*A Gap Analysis of the Adoption Maturity of Certificateless Cryptography in Cooperative Intelligent Transportation Systems*](https://www.mdpi.com/2624-800X/3/3/28) Journal of Cybersecurity and Privacy 2023; 3(3), 591-609. 
 - Salin,H., Lundgren,M., [*Towards Agile Cybersecurity Risk Management for Autonomous Software Engineering Teams*](https://www.mdpi.com/2624-800X/2/2/15), Journal of Cybersecurity and Privacy 2 (2), 276-291
 - Salin,H. [*Providing Secure Randomness in Applied Cryptography*](https://github.com/hannessalin/publications/blob/master/secure-randomness-whitepaper-final.pdf), Whitepaper, 2017
 - Salin,H., Fokin,D., [*Mission Impossible: Securing Master Keys*](https://arxiv.org/abs/2107.00580), 	arXiv:2107.00580 cs.CR, 2020 (published at ArXiv 2021).
