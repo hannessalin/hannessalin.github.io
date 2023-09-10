@@ -17,8 +17,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 ## Publications for my PhD in Cryptography
 
-- Salin, H., Krzywiecki, L. [*A Source Hiding Protocol for Cooperative Intelli-
-gent Transportation Systems (C-ITS)*](www.springer.se). 18th International Conference, ISPEC 2023, Copenhagen, Denmark, August 24–25, 2023, Proceedings.
+- Salin, H., Krzywiecki, L. [*A Source Hiding Protocol for Cooperative Intelligent Transportation Systems (C-ITS)*](www.springer.se). 18th International Conference, ISPEC 2023, Copenhagen, Denmark, August 24–25, 2023, Proceedings.
 - Salin, H., [*AccA: A Decentralized and Accumulator-Based Authentication and Authorization Architecture for Autonomous IoT in Connected Infrastructures*](https://www.scitepress.org/PublicationsDetail.aspx?ID=TEFymHfOovc=&t=1) ,In Proceedings of the 8th International Conference on Internet of Things, Big Data and Security - IoTBDS, 2023.
 - Salin, H., [*Pseudonym Swapping with Secure Accumulators and Double Diffie-Hellman Rounds in Cooperative Intelligent Transport Systems*](https://link.springer.com/chapter/10.1007/978-3-031-31108-6_17),  Risks and Security of Internet and Systems. CRiSIS 2022. Lecture Notes in Computer Science, vol 13857. 
 - Krzywiecki, Ł., Salin, H., [*Short Signatures via Multiple Hardware Security Modules with Key Splitting in Circuit Breaking Environments*](https://ieeexplore.ieee.org/document/10063605), 2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Wuhan, China, 2022.
@@ -64,11 +63,14 @@ All completed projects since 2017 are listed below:
 - 2017: Supervisor to Anton Lindqvist for master thesis [*Privacy Preserving Audit Proofs*](http://www.diva-portal.org/smash/get/diva2:1119313/FULLTEXT02.pdf)
 - 2017: Supervisor to Joel Gärtner for master thesis [*Analysis of Entropy Usage in Random Number Generators*](http://www.diva-portal.org/smash/get/diva2:1141835/FULLTEXT01.pdf)
 
-## Public lectures
-- [2020: Lecure on Agile and Experiment-oriented Ways of Working, DFS 2020](https://dfs.se/pa_gang/agiladalarna-agila-experiment-pa-nordea/)
-- [2019: Lecture on Transport Layer Security protocol and PKI, DFS 2019](https://dfs.se/pa_gang/kryptera-trafik-i-natverket/)
-- [2018: Lecture on Public Key Infrastructure and Software Development, LulSec 2018](https://dfs.se/pa_gang/pki-dagen/)
-- [2018: Lecture on Secure Software Development and Applied Cryptography, DFS 2018](https://dfs.se/pa_gang/en-djupdykning-i-saker-utveckling-och-kryptografiska-sakerhetshal/)
+## Public lectures and talks
+- [Lecure on Agile and Experiment-oriented Ways of Working, DFS 2020](https://dfs.se/pa_gang/agiladalarna-agila-experiment-pa-nordea/)
+- [Lecture on Transport Layer Security protocol and PKI, DFS 2019](https://dfs.se/pa_gang/kryptera-trafik-i-natverket/)
+- [Lecture on Secure Coding, Nordea Developer Days, 2019](www.nordea.se)
+- [Lecture on Public Key Infrastructure and Software Development, LulSec 2018](https://dfs.se/pa_gang/pki-dagen/)
+- [Lecture on Secure Software Development and Applied Cryptography, DFS 2018](https://dfs.se/pa_gang/en-djupdykning-i-saker-utveckling-och-kryptografiska-sakerhetshal/)
+- [Workshop in Web Application Security and Ethical Hacking, Omegapoint Competence, 2015](www.omegapoint.se)
+- [Lecture on Provable Security, Omegapoint Competence, 2015](www.omegapoint.se)
 
 ## Education
 
