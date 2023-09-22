@@ -64,7 +64,7 @@ All completed projects since 2017 are listed below:
 - 2017: Supervisor to Joel Gärtner for master thesis [*Analysis of Entropy Usage in Random Number Generators*](http://www.diva-portal.org/smash/get/diva2:1141835/FULLTEXT01.pdf)
 
 ## Public lectures and talks
-- [Lecure on Randomness in Cryptography, Invited lecuture, Skövde University, 2023](https://dfs.se/pa_gang/agiladalarna-agila-experiment-pa-nordea/)
+- [Lecure on Randomness in Cryptography, Invited lecture, Skövde University, 2023](https://dfs.se/pa_gang/agiladalarna-agila-experiment-pa-nordea/)
 - [Lecure on Agile and Experiment-oriented Ways of Working, DFS 2020](https://dfs.se/pa_gang/agiladalarna-agila-experiment-pa-nordea/)
 - [Lecture on Transport Layer Security protocol and PKI, DFS 2019](https://dfs.se/pa_gang/kryptera-trafik-i-natverket/)
 - [Lecture on Secure Coding, Nordea Developer Days, 2019](www.nordea.se)
