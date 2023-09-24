@@ -33,7 +33,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 - Salin, H., Rybarczyk, Y., Han, M., & Nyberg, R. G. [*Quality Metrics for Software Development Management and Decision Making: An Analysis of Attitudes and Decisions*](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_37). In International Conference on Product-Focused Software Process Improvement (pp. 525-530). Springer, Cham., 2022
 - Salin, H., Albrecht, F., Skov, J. [*The Power of Scrum Mastery: An Analysis of Agile Team Performance and Scrum Master Influence*](https://www.scitepress.org/PublicationsDetail.aspx?ID=yL8/BLoiaIs=&t=1). In Proceedings of the 18th International Conference on Software Technologies, ISBN 978-989-758-665-1, ISSN 2184-2833, pages 377-384., 2023
 
-## Other publications
+## Other Publications
 - Salin,H., Lundgren,M., [*A Gap Analysis of the Adoption Maturity of Certificateless Cryptography in Cooperative Intelligent Transportation Systems*](https://www.mdpi.com/2624-800X/3/3/28) Journal of Cybersecurity and Privacy 2023; 3(3), 591-609. 
 - Salin,H., Lundgren,M., [*Towards Agile Cybersecurity Risk Management for Autonomous Software Engineering Teams*](https://www.mdpi.com/2624-800X/2/2/15), Journal of Cybersecurity and Privacy 2 (2), 276-291
 - Salin,H. [*Providing Secure Randomness in Applied Cryptography*](https://github.com/hannessalin/publications/blob/master/secure-randomness-whitepaper-final.pdf), Whitepaper, 2017
@@ -45,7 +45,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 - Salin,H. [*Gap Analysis in Cooperative Systems within Intelligent Transportation Systems*](http://www.diva-portal.org/smash/record.jsf?dswid=-7649&pid=diva2%3A654430&c=3&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), Master thesis, 2012
 - Salin,H. [*Analysis of Pseudorandom Number Generators: LFSR, LCG and AES-based Algorithms*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A654303&dswid=-9007), (1st) Bachelor thesis, 2012
 
-## Projects
+## Supervising
 
 I have supervised 11 master thesis projects and 1 bachelor thesis project since 2017, with topics primarily on cryptography and IT-security. My contribution included the specification of problem statements, ideas for research, supervising students in research methodology, scientific writing and cryptography. My main responsibilities except supervising activities, is to announce projects, interview candidates and jointly with academia approve resulting master thesis reports.
 All completed projects since 2017 are listed below:
@@ -63,8 +63,8 @@ All completed projects since 2017 are listed below:
 - 2017: Supervisor to Anton Lindqvist for master thesis [*Privacy Preserving Audit Proofs*](http://www.diva-portal.org/smash/get/diva2:1119313/FULLTEXT02.pdf)
 - 2017: Supervisor to Joel Gärtner for master thesis [*Analysis of Entropy Usage in Random Number Generators*](http://www.diva-portal.org/smash/get/diva2:1141835/FULLTEXT01.pdf)
 
-## Public lectures and talks
-- [Lecure on Randomness in Cryptography, Invited lecture, Skövde University, 2023](https://dfs.se/pa_gang/agiladalarna-agila-experiment-pa-nordea/)
+## Public lectures and Invited Talks
+- [Lecure on Randomness in Cryptography, Invited lecture, Skövde University, 2023](https://www.his.se/en/education/informatics/privacy-information-and-cyber-security-masters-programme-iicma/)
 - [Lecure on Agile and Experiment-oriented Ways of Working, DFS 2020](https://dfs.se/pa_gang/agiladalarna-agila-experiment-pa-nordea/)
 - [Lecture on Transport Layer Security protocol and PKI, DFS 2019](https://dfs.se/pa_gang/kryptera-trafik-i-natverket/)
 - [Lecture on Secure Coding, Nordea Developer Days, 2019](www.nordea.se)
@@ -96,7 +96,7 @@ All completed projects since 2017 are listed below:
 ## Athletic Achievements and Other Accomplishments
 
 - 6th place (of 64 teams), [Para Endurance Race 2019](https://paraendurance.org), 70 km rucking and land navigation
-- Successfully graduated as a ranger squad leader in the [Swedish Army Ranger Batalion](https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/?TSPD_101_R0=08054bd396ab20005ebc657309951d0f50fc33e0f93393dcfedd8f94f9747cb8862ab6422333eadc08a148d1b914300052b41cb2294bea8a7859c8b33df9544f85dbac772ffce7b3bde13bb377f522561bc6a680715ef23588ef2f5541303bb2), 2005-2006
+- Successfully graduated as a army ranger squad leader in the [Swedish Army Ranger Batalion](https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/?TSPD_101_R0=08054bd396ab20005ebc657309951d0f50fc33e0f93393dcfedd8f94f9747cb8862ab6422333eadc08a148d1b914300052b41cb2294bea8a7859c8b33df9544f85dbac772ffce7b3bde13bb377f522561bc6a680715ef23588ef2f5541303bb2), 2005-2006
 - Numerous top 3 placings 1995-1999, Swedish National Karate Youth competitions
 - Assistant Karate instructor, Kan Zen Kai Karate, 1996-2001
 
