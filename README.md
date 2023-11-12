@@ -17,7 +17,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 ## Publications for my PhD in Cryptography
 
-- Salin, H., Krzywiecki, L. [*A Source Hiding Protocol for Cooperative Intelligent Transportation Systems (C-ITS)*](www.springer.se). 18th International Conference, ISPEC 2023, Copenhagen, Denmark, August 24–25, 2023, Proceedings.
+- Salin, H., Krzywiecki, L. [*A Source Hiding Protocol for Cooperative Intelligent Transportation Systems (C-ITS)*](https://scholar.google.com/scholar?oi=bibs&cluster=4249347347521400960&btnI=1&hl=sv). 18th International Conference, ISPEC 2023, Copenhagen, Denmark, August 24–25, 2023, Proceedings.
 - Salin, H., [*AccA: A Decentralized and Accumulator-Based Authentication and Authorization Architecture for Autonomous IoT in Connected Infrastructures*](https://www.scitepress.org/PublicationsDetail.aspx?ID=TEFymHfOovc=&t=1) ,In Proceedings of the 8th International Conference on Internet of Things, Big Data and Security - IoTBDS, 2023.
 - Salin, H., [*Pseudonym Swapping with Secure Accumulators and Double Diffie-Hellman Rounds in Cooperative Intelligent Transport Systems*](https://link.springer.com/chapter/10.1007/978-3-031-31108-6_17),  Risks and Security of Internet and Systems. CRiSIS 2022. Lecture Notes in Computer Science, vol 13857. 
 - Krzywiecki, Ł., Salin, H., [*Short Signatures via Multiple Hardware Security Modules with Key Splitting in Circuit Breaking Environments*](https://ieeexplore.ieee.org/document/10063605), 2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Wuhan, China, 2022.
@@ -30,8 +30,11 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 - Krzywiecki, Ł., Salin, H., Panwar,N., Pavlov,M., [*Proxy Signcryption Scheme for Vehicle Infrastructure Immune to Randomness Leakage and Setup Attacks*](https://ieeexplore.ieee.org/document/9306703), 2020 IEEE 19th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2020, pp. 1-8, doi: 10.1109/NCA51143.2020.9306703.
 
 ## Publications for my PhD in Microdata Analysis
-- Salin, H., Rybarczyk, Y., Han, M., & Nyberg, R. G. [*Quality Metrics for Software Development Management and Decision Making: An Analysis of Attitudes and Decisions*](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_37). In International Conference on Product-Focused Software Process Improvement (pp. 525-530). Springer, Cham., 2022
+- Salin, H. [*A Stochastic Approach Based on Rational Decision-Making for Analyzing Software Engineering Project Status*](https://link.springer.com). In International Conference on Product-Focused Software Process Improvement (pp. X-Y). Springer, Cham., 2023
+- Salin, H. [*Thrifty Guardians: Overcoming the Challenges of Establishing Security Champions on a Limited Budget*](www.ieee.com) In 2023 49th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), Dürres, Albania, 2023 pp. X-Y.
 - Salin, H., Albrecht, F., Skov, J. [*The Power of Scrum Mastery: An Analysis of Agile Team Performance and Scrum Master Influence*](https://www.scitepress.org/PublicationsDetail.aspx?ID=yL8/BLoiaIs=&t=1). In Proceedings of the 18th International Conference on Software Technologies, ISBN 978-989-758-665-1, ISSN 2184-2833, pages 377-384., 2023
+- Salin, H., Rybarczyk, Y., Han, M., & Nyberg, R. G. [*Quality Metrics for Software Development Management and Decision Making: An Analysis of Attitudes and Decisions*](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_37). In International Conference on Product-Focused Software Process Improvement (pp. 525-530). Springer, Cham., 2022
+
 
 ## Other Publications
 - Salin,H., Lundgren,M., [*A Gap Analysis of the Adoption Maturity of Certificateless Cryptography in Cooperative Intelligent Transportation Systems*](https://www.mdpi.com/2624-800X/3/3/28) Journal of Cybersecurity and Privacy 2023; 3(3), 591-609. 
