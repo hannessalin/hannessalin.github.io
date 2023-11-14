@@ -15,4 +15,7 @@
 - Initiated and established a software developer community for the department (all other units)
 
 # Nordea Bank
-## Head of unit
+## Head of unit, 2019-07-01 - 2020-04-30
+- Leading 
+## Senior software developer and scrum master, 2017-01-01 - 2019-06-30
+- Leading a software development team
