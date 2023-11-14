@@ -10,3 +10,9 @@
 - Sponsor for the ICT organization's part of the mega programme [*E4 Stockholm bypass*](https://bransch.trafikverket.se/en/startpage/projects/Road-construction-projects/the-stockholm-bypass/)
 - Member of a multitude of steering commitées, e.g. the electrification of Swedish roads, the innovation commitée, research portfolios, strategic forum for roadside IT, ITS and EU projects, the commitée for digitalization and many more.
 - Recruitment of engineering managers.
+## Head of unit, 2020-05-01 - 2021-09-30
+- Leading a unit of 18 employees and almost 50 consultants, primarily software developers, test leaders, project managers and strategists.
+- Initiated and established a software developer community for the department (all other units)
+
+# Nordea Bank
+## Head of unit
