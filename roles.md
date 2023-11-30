@@ -20,7 +20,7 @@
 
 # Nordea Bank
 ## Head of unit, 2019-07-01 - 2020-04-30
-- Leading the Swedish and Norwegian software development department within Nordea Digital (17 developers)
+- Leading the Swedish and Norwegian software development department Capability API (17 developers)
 - Part of the Nordic management team and SAFe train team (along with PM:s and RTE:s) 
 - Supervisor to master thesis students
 - Co-driver of the Security Champion initiative
@@ -29,26 +29,26 @@
 - Leading a software development team in Nordea authentication and signing software portfolio
 - Java software development
 - Supervisor to master thesis students
-- Areas of expertise: secure coding, DevSecOps, docker, Java and Spring Boot, TDD, BDD, Jira, CI/CD
+- Areas of expertise: secure coding, DevSecOps, docker, Java and Spring Boot, TDD, BDD, Jira, CI/CD, SDLC
 
 # Omegapoint
-## Senior software developer and application security engineer at Nordea Bank, Finansiell ID-teknik and Axstores, ...
+## Senior software developer and application security engineer at Nordea Bank, Finansiell ID-teknik and Axstores, 2015-04-01 - 2017-06-01
 - Java software development
 - CI/CD development with Jenkins
 - Test automation
 - Workshop leader, teacher and lecturer in secure coding and cryptography
 - Supervisor to master thesis students
-- Areas of expertise: secure coding, DevSecOps, docker, Java and Spring Boot, TDD, BDD, Jira, CI/CD
+- Areas of expertise: secure coding, DevSecOps, docker, Java and Spring Boot, TDD, BDD, Jira, CI/CD, SDLC
 
 # Nexus
-## Software developer, ...
+## Software developer, 2013-09-01 - 2015 - 2015-03-31
 - Java software development
 - Test automation
 - Scrum master and Scrum of Scrums leader
-- Areas of expertise: secure coding, Java, CI/CD
+- Areas of expertise: secure coding, Java, CI/CD, SDLC
 
 # Skysparc
-## Technical finance consultant, 2012-06-30 - ...
+## Technical finance consultant, 2012-06-30 - 2014-08-31
 - Successfully graduated from SkySparc's trainee programme in finance
 - Development, testing and configuration of financial systems (internally developed systems and Wallstreet Suite)
 - Areas of expertise: Linux/Unix, ORACLE, MSSQL, Python, Perl, Wallstreet Systems, Excel and VBA
