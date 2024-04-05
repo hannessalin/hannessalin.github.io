@@ -17,6 +17,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 ## Publications for my PhD in Cryptography
 
+- Bąk, K., Salin, H., Niczyj, K., Krzywiecki, Ł. [*Enhancing Tunnel Safety for Dangerous Goods Vehicles through Blockchain-Based Time-Stamping*](www.ieee.com). (accepted at TrustCom 2023)
 - Salin, H., Krzywiecki, L. [*A Source Hiding Protocol for Cooperative Intelligent Transportation Systems (C-ITS)*](https://link.springer.com/chapter/10.1007/978-981-99-7032-2_22). 18th International Conference, ISPEC 2023, Copenhagen, Denmark, August 24–25, 2023, Proceedings.
 - Salin, H., [*AccA: A Decentralized and Accumulator-Based Authentication and Authorization Architecture for Autonomous IoT in Connected Infrastructures*](https://www.scitepress.org/PublicationsDetail.aspx?ID=TEFymHfOovc=&t=1) ,In Proceedings of the 8th International Conference on Internet of Things, Big Data and Security - IoTBDS, 2023.
 - Salin, H., [*Pseudonym Swapping with Secure Accumulators and Double Diffie-Hellman Rounds in Cooperative Intelligent Transport Systems*](https://link.springer.com/chapter/10.1007/978-3-031-31108-6_17),  Risks and Security of Internet and Systems. CRiSIS 2022. Lecture Notes in Computer Science, vol 13857. 
