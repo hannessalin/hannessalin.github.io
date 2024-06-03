@@ -41,7 +41,7 @@
 - Areas of expertise: secure coding, DevSecOps, docker, Java and Spring Boot, TDD, BDD, Jira, CI/CD, SDLC
 
 # Nexus
-## Software developer, 2013-09-01 - 2015 - 2015-03-31
+## Software developer, 2013-09-01 - 2015-03-31
 - Java software development
 - Test automation
 - Scrum master and Scrum of Scrums leader
