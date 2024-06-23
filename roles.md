@@ -1,5 +1,8 @@
 # Swedish Transport Administration (Trafikverket)
-## Head of department, 2021-10-01 - present
+## Head of department Digitalization and Transport Systems, 2024-04-01 - present
+- Leading leaders (responsible for a management team of 6 engineering managers), in total 400 employees and consultants.
+
+## Head of department Transport IT, 2021-10-01 - 2024-03-31
 - Leading two departments concurrently with two management teams, in total around 400 employees and consultants since 2024-01-01.
 - Leading leaders (responsible for a management team of 4 engineering managers), in total 70 employees and consultants between 2021-10-01 to 2023-12-31.
 - Initiated and established Security Champions in the department.
