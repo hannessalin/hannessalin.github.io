@@ -55,7 +55,7 @@ Peer-revewing and session facilitator during conferences.
 - Salin,H. [*On Russell’s Paradox and Attempted Resolutions*](http://www.diva-portal.org/smash/record.jsf?dswid=-5163&pid=diva2%3A1767620&c=5&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (3rd) Bachelor thesis, 2023
 - Salin,H. [*Pairing-Based Cryptography in Theory and Practice*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (2nd) Bachelor thesis, 2021
 - Salin,H. [*Gap Analysis in Cooperative Systems within Intelligent Transportation Systems*](http://www.diva-portal.org/smash/record.jsf?dswid=-7649&pid=diva2%3A654430&c=3&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), Master thesis, 2012
-- Salin,H. [*Analysis of Pseudorandom Number Generators: LFSR, LCG and AES-based Algorithms*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A654303&dswid=-9007), (1st) Bachelor thesis, 2012
+- Salin,H. [*Analysis of Pseudorandom Number Generators: LFSR, LCG and AES-based Algorithms*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A654303&dswid=-9007), (1st) Bachelor thesis, 2011
 
 ## Thesis Supervising
 
