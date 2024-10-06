@@ -51,7 +51,7 @@
 - Areas of expertise: secure coding, Java, CI/CD, SDLC
 
 # Skysparc
-## Technical finance consultant, 2012-06-30 - 2014-08-31
+## Technical finance consultant, 2012-06-30 - 2013-08-31
 - Successfully graduated from SkySparc's trainee programme in finance
 - Development, testing and configuration of financial systems (internally developed systems and Wallstreet Suite)
 - Areas of expertise: Linux/Unix, ORACLE, MSSQL, Python, Perl, Wallstreet Systems, Excel and VBA
