@@ -100,7 +100,7 @@ Supervision and mentoring of master and bachelor thesis student projects with to
     - [*Thesis*](http://www.diva-portal.org/smash/record.jsf?dswid=-7649&pid=diva2%3A654430&c=3&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) 
 - KTH Royal Institute of Technology, Bachelor of Science (B.Sc.) in Computer Science & Engineering, 2011
     - [*Thesis*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A654303&dswid=-9007)
-- Army ranger squad leader in the [Swedish Army Ranger Batalion](https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/?TSPD_101_R0=08054bd396ab20005ebc657309951d0f50fc33e0f93393dcfedd8f94f9747cb8862ab6422333eadc08a148d1b914300052b41cb2294bea8a7859c8b33df9544f85dbac772ffce7b3bde13bb377f522561bc6a680715ef23588ef2f5541303bb2), 2005-2006
+- Army ranger squad leader in the [Swedish Army Ranger Batalion](https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/?TSPD_101_R0=08054bd396ab20005ebc657309951d0f50fc33e0f93393dcfedd8f94f9747cb8862ab6422333eadc08a148d1b914300052b41cb2294bea8a7859c8b33df9544f85dbac772ffce7b3bde13bb377f522561bc6a680715ef23588ef2f5541303bb2), responsible for a ranger squad working primarily with reconnaissance, demolition, and combat operations behind enemy lines in subarctic or otherwise difficult environments. 2005-2006
  
 ## Languages
 
@@ -110,7 +110,6 @@ Supervision and mentoring of master and bachelor thesis student projects with to
 
 ## Athletic Achievements and Other Accomplishments
 
-- 5th kyu, Shotokan Karate
 - D-level instructor license in Karate, issued 2024 by [Karate Sweden](https://www.karatesweden.se)
 - 6th place (of 64 teams), [Para Endurance Race 2019](https://paraendurance.org), 70 km rucking and land navigation
 
