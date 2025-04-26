@@ -17,8 +17,8 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 ## Publications within scope of my PhD in Cryptography
 
-- Dzikowski,B., Krzywiecki, Ł., Możdżyński,K., Niczyj,K., Salin,H., [*Distributed Data Possession - Blockchain Based Scalability*](https://docs.qq.com/sheet/DRHZOR0JLZXZsTU1a?tab=000001) (Accepted to 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2024)
-- Ignasiak,K., Kowalczyk, W., Krzywiecki,Ł., Nasewicz,M., Salin,H., Zawada,M.,[*Privacy Preserving Real-Time Gesture Recognition using Cloud-Trained Neural Networks*](https://docs.qq.com/sheet/DRHZOR0JLZXZsTU1a?tab=000001) (Accepted to 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2024)
+- Dzikowski,B., Krzywiecki, Ł., Możdżyński,K., Niczyj,K., Salin,H., [*Distributed Data Possession - Blockchain Based Scalability*](https://ieeexplore.ieee.org/abstract/document/10944841) In 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) (pp. 2523-2528). IEEE Computer Society.
+- Ignasiak,K., Kowalczyk, W., Krzywiecki,Ł., Nasewicz,M., Salin,H., Zawada,M.,[*Privacy Preserving Real-Time Gesture Recognition using Cloud-Trained Neural Networks*](https://ieeexplore.ieee.org/abstract/document/10945162) In 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) (pp. 2388-2393). IEEE Computer Society.
 - Bąk, K., Salin, H., Niczyj, K., Krzywiecki, Ł. [*Enhancing Tunnel Safety for Dangerous Goods Vehicles through Blockchain-Based Time-Stamping*](https://ieeexplore.ieee.org/abstract/document/10538825). 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Exeter, United Kingdom, 2023, pp. 1312-1317, doi: 10.1109/TrustCom60117.2023.00179.
 - Salin, H., Krzywiecki, L. [*A Source Hiding Protocol for Cooperative Intelligent Transportation Systems (C-ITS)*](https://link.springer.com/chapter/10.1007/978-981-99-7032-2_22). 18th International Conference, ISPEC 2023, Copenhagen, Denmark, August 24–25, 2023, Proceedings.
 - Salin, H., [*AccA: A Decentralized and Accumulator-Based Authentication and Authorization Architecture for Autonomous IoT in Connected Infrastructures*](https://www.scitepress.org/PublicationsDetail.aspx?ID=TEFymHfOovc=&t=1) ,In Proceedings of the 8th International Conference on Internet of Things, Big Data and Security - IoTBDS, 2023.
@@ -41,7 +41,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 
 ## Other Publications
-- Salin,H. [*Small Mistakes with Big Impacts: A Study on Secure Coding Practices in Java Open Source Projects*](www.google.se) (Accepted to CRiSIS 2024)
+- Salin,H. [*Small Mistakes with Big Impacts: A Study on Secure Coding Practices in Java Open Source Projects*](https://link.springer.com/chapter/10.1007/978-3-031-89350-6_7) In: Collart-Dutilleul, S., Ouchani, S., Cuppens, N., Cuppens, F. (eds) Risks and Security of Internet and Systems. CRiSIS 2024. Lecture Notes in Computer Science, vol 15456. Springer, Cham.
 - Salin,H., Lundgren,M., [*A Gap Analysis of the Adoption Maturity of Certificateless Cryptography in Cooperative Intelligent Transportation Systems*](https://www.mdpi.com/2624-800X/3/3/28) Journal of Cybersecurity and Privacy 2023; 3(3), 591-609. 
 - Salin,H., Lundgren,M., [*Towards Agile Cybersecurity Risk Management for Autonomous Software Engineering Teams*](https://www.mdpi.com/2624-800X/2/2/15), Journal of Cybersecurity and Privacy 2 (2), 276-291
 - Salin,H. [*Providing Secure Randomness in Applied Cryptography*](https://github.com/hannessalin/publications/blob/master/secure-randomness-whitepaper-final.pdf), Whitepaper, 2017
