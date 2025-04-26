@@ -3,9 +3,9 @@
 <img src="/hannes-du-profile.jpeg" alt="Picture of Hanne Salin" style="width:200px; float:left; margin-right:10px;"/>
 I am currently the head of department (leading leaders) of Digitalization and Transportation Systems at the Swedish Transport Administration (STA), within the Division of Information and Communication Technology (ICT), managing a department of more than 400 software engineers, test leaders, requirement specialists, architects, project leaders, engineering managers and many other roles. Except my full-time work at STA, I am also working towards a PhD in cryptography, under the supervision of associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/) at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). My main research focus is secure multi-party signature schemes for connected and distributed infrastructures such as VANET and smart railway eco-systems. Particular interests within cryptography are provable security, signature schemes, and cryptographic accumulators. I am also working towards a PhD in [data analytics](https://www.du.se/en/research/doctoral-studies/doctoral-programme-in-microdata-analysis/) at [Dalarna University](https://www.du.se/en), under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering and (agile) software development, with a particular focus on inter- and transdisciplinary methods for managerial decision-making, combining organizational- and management theory with statistical analysis and data science.  
 
-I have more than **7 years** of experience as a security software engineer and system developer with focus on IT-security and secure software development, and **5 years** of experience as a manager including middle- and top management levels. I have primarily worked within finance and banking, and more recently the infrastructure domain. For a more detailed summary of my professional activities, [go here](roles.md). **Since 2021 I am holding a senior IEEE membership**.
+I have more than **7 years** of experience as a security software engineer and system developer with focus on IT-security and secure software development, and **6 years** of experience as a manager including middle- and top management levels. I have primarily worked within finance and banking, and more recently the transport infrastructure domain. For a more detailed summary of my professional activities, [go here](roles.md). **Since 2021 I am holding a senior IEEE membership**.
 
-In my spare time, excluding research, I spend a lot of time with my family, running, weightlifting, hiking, cross-country skiing, training martial arts, reading fiction, philosophy and mathematics, and occasionally play and construct board games. 
+In my spare time, excluding research, I spend a lot of time with my family, running, weightlifting, hiking, cross-country skiing, training karate and thai boxing, reading fiction, philosophy and mathematics, and occasionally play and construct board games. 
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35">[GitHub](https://github.com/hannessalin)&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" width="35">[Google Scholar](https://scholar.google.com/citations?user=yh4HgFMAAAAJ&hl=sv&oi=ao)&nbsp;&nbsp;
@@ -112,7 +112,7 @@ Supervision and mentoring of master and bachelor thesis student projects with to
 
 ## Athletic Achievements and Other Accomplishments
 
-- D-level instructor license in Karate, issued 2024 by [Karate Sweden](https://www.karatesweden.se)
+- B-level instructor license in Karate, [Karate Sweden](https://www.karatesweden.se)
 - 6th place (of 64 teams), [Para Endurance Race 2019](https://paraendurance.org), 70 km rucking and land navigation
 
 ## References
