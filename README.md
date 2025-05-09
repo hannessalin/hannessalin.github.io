@@ -49,6 +49,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 ## Academic Responsibilities
 Peer-revewing and session facilitator during conferences.
+- Program chair for [*ISD 2025: Lean and Agile Software Development track*](https://isd2025.fon.bg.ac.rs/tracks/#track-3)
 - Program chair for [*ISD 2024: Lean and Agile Software Development track*](https://isd2024.ug.edu.pl/call-for-papers/tracks/#track_3)
 - Program chair for [*XP 2024: Poster track*](https://www.agilealliance.org/xp2024/posters/)
 - Session chair for [*IoTBDS 2023: Internet of Things track*](https://www.insticc.org/node/TechnicalProgram/IoTBDS/2023/session/P21944)
