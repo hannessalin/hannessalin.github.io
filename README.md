@@ -48,7 +48,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 - Salin,H., Fokin,D., [*Mission Impossible: Securing Master Keys*](https://arxiv.org/abs/2107.00580), 	arXiv:2107.00580 cs.CR, 2020 (published at ArXiv 2021).
 
 ## Academic Responsibilities
-Peer-revewing and session facilitator during conferences.
+Peer-revewing and program chair responsibilites.
 - Program chair for [*ISD 2025: Lean and Agile Software Development track*](https://isd2025.fon.bg.ac.rs/tracks/#track-3)
 - Program chair for [*ISD 2024: Lean and Agile Software Development track*](https://isd2024.ug.edu.pl/call-for-papers/tracks/#track_3)
 - Program chair for [*XP 2024: Poster track*](https://www.agilealliance.org/xp2024/posters/)
