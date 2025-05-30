@@ -92,9 +92,10 @@ Supervision and mentoring of master and bachelor thesis student projects with to
 
 ## Education
 
-- Wrocław University of Science and Technology, Poland, PhD in Cryptography, - ongoing (expected early 2025)
-- Dalarna University, Sweden, PhD in Data Analytics, - ongoing (expected 2025/26)
-- Blekinge Institute of Technology, Master in Business Administration (MBA), - ongoing (expected 2025)
+- Wrocław University of Science and Technology, Poland, PhD in Cryptography, - ongoing (expected 2025)
+- Dalarna University, Sweden, PhD in Data Analytics, - ongoing (expected 2026/27)
+- Blekinge Institute of Technology, Master in Business Administration (MBA), 2025
+     - [*Thesis*](www.bth.se) 
 - Umeå University, Bachelor of Arts (BA) in Philosophy, 2023
      - [*Thesis*](http://www.diva-portal.org/smash/record.jsf?dswid=-5163&pid=diva2%3A1767620&c=5&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 - Umeå University, Bachelor of Science (B.Sc.) in Mathematics, 2021
