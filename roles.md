@@ -1,10 +1,13 @@
 # Swedish Transport Administration (Trafikverket)
 ## Head of department Digitalization and Transport Systems, 2024-04-01 - present
-- Leading leaders (responsible for a management team of 6 engineering managers), in total 400 employees and consultants.
+- Leading leaders (responsible for a management team of 6 unit managers), in total 400 employees and consultants including engineering managers, software developers, architects, project managers and many more roles.
+- Initiated and established DevEx capabilities including developer portal 
+- Supervisor to master thesis students
+- Recruitment of unit managers.
 
 ## Head of department Transport IT, 2021-10-01 - 2024-03-31
-- Leading two departments concurrently with two management teams, in total around 400 employees and consultants since 2024-01-01.
-- Leading leaders (responsible for a management team of 4 engineering managers), in total 70 employees and consultants between 2021-10-01 to 2023-12-31.
+- Leading two departments concurrently with two management teams, in total around 400 employees and consultants between 2024-01-01 to 2024-04-01.
+- Leading leaders (responsible for a management team of 4 unit managers), in total 70 employees and consultants between 2021-10-01 to 2023-12-31.
 - Initiated and established Security Champions in the department.
 - Initiated and established a Cooperative Intelligent Transportation System (C-ITS) expert function for the ICT organization.
 - Initiated and established a research and innovation (sv. FOI) function for the ICT organization.
@@ -13,7 +16,7 @@
 - Sponsor for the ICT organization's part of the mega programme [*E4 Stockholm bypass*](https://bransch.trafikverket.se/en/startpage/projects/Road-construction-projects/the-stockholm-bypass/)
 - Member of a multitude of steering commitées, e.g. the electrification of Swedish roads, the innovation commitée, research portfolios, strategic forum for roadside IT, ITS and EU projects, the commitée for digitalization and many more.
 - Supervisor to master thesis students
-- Recruitment of engineering managers.
+- Recruitment of unit and engineering managers.
 
 ## Head of unit, 2020-05-01 - 2021-09-30
 - Leading a unit of 18 employees and almost 50 consultants, primarily software developers, test leaders, project managers and strategists.
