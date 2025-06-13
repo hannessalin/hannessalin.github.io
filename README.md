@@ -15,8 +15,9 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 
 
-## Publications within scope of my PhD in Cryptography
+## Publications relevant to my PhD in Cryptography
 
+- Salin,J., [*A Comparative Analysis of Anonymous and Non-Anonymous Authorization Architectures for IoT Environments in Cooperative Intelligent Transport Systems*](https://www.scitepress.org/Papers/2025/133247/133247.pdf) In  Proceedings of the 10th International Conference on Internet of Things, Big Data and Security - Volume 1: IoTBDS; ISBN 978-989-758-750-4, SciTePress, pages 281-288.
 - Dzikowski,B., Krzywiecki, Ł., Możdżyński,K., Niczyj,K., Salin,H., [*Distributed Data Possession - Blockchain Based Scalability*](https://ieeexplore.ieee.org/abstract/document/10944841) In 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) (pp. 2523-2528). IEEE Computer Society.
 - Ignasiak,K., Kowalczyk, W., Krzywiecki,Ł., Nasewicz,M., Salin,H., Zawada,M.,[*Privacy Preserving Real-Time Gesture Recognition using Cloud-Trained Neural Networks*](https://ieeexplore.ieee.org/abstract/document/10945162) In 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) (pp. 2388-2393). IEEE Computer Society.
 - Bąk, K., Salin, H., Niczyj, K., Krzywiecki, Ł. [*Enhancing Tunnel Safety for Dangerous Goods Vehicles through Blockchain-Based Time-Stamping*](https://ieeexplore.ieee.org/abstract/document/10538825). 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Exeter, United Kingdom, 2023, pp. 1312-1317, doi: 10.1109/TrustCom60117.2023.00179.
@@ -32,7 +33,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 - Drzazga,B., Krzywiecki, Ł., Salin, H., [*Cryptanalysis of Deterministic and Probabilistic  Multi-Copy PDP Schemes For Cloud Storage - Attacks and Countermeasures*](ieeexplore.ieee.org) 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2021.
 - Krzywiecki, Ł., Salin, H., Panwar,N., Pavlov,M., [*Proxy Signcryption Scheme for Vehicle Infrastructure Immune to Randomness Leakage and Setup Attacks*](https://ieeexplore.ieee.org/document/9306703), 2020 IEEE 19th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2020, pp. 1-8, doi: 10.1109/NCA51143.2020.9306703.
 
-## Publications within scope of my PhD in Data Analytics
+## Publications relevant to my PhD in Data Analytics
 - Salin, H. [*Building a Decision Landscape Model for Software Development: From Empirical Insights to Formal Theory*](https://www.scitepress.org/) Accepted to ICSOFT 2025 conference, 2025.
 - Salin, H. [*The Game of One More Idea 2.0: A Comparative Study of Gamified Decision-Making and Brainstorming in Software Engineering*](https://www.scitepress.org) Accepted to Communications in Computer and Information Science book series, 2025. Springer.
 - Salin, H. [*The Game of One More Idea - Gamification of Managerial Group Decision-Making in Software Engineering*](https://www.scitepress.org/Papers/2024/128454/128454.pdf) In 19th International Conference on Software Technologies ICSOFT, 2024, Dijon, France (pp. 59-66). SciTePress.
