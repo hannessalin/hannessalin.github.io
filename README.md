@@ -57,6 +57,10 @@ Peer-revewing and program chair responsibilites.
 - Program chair for [*XP 2024: Poster track*](https://www.agilealliance.org/xp2024/posters/)
 - Session chair for [*IoTBDS 2023: Internet of Things track*](https://www.insticc.org/node/TechnicalProgram/IoTBDS/2023/session/P21944)
 
+## Grants
+Accepted research grant applications.
+-  [*Social-psychological aspects of secure agile software engineering (Psycurity)*](https://foiportalen.trafikverket.se/seprojekt/586), TRV 2025/26918, Trafikverket Forskning och Innovation (FOI), **2 million SEK**, co-applicant: [*Lucas Gren*](https://scholar.google.se/citations?user=i4OdPVQAAAAJ&hl=sv), Göteborg University.
+
 ## Thesis Work
 - Salin, H., Gkougkaras, V. [*The Effects of Cybersecurity Training for Software Development Organizations*](www.bth.se), (2nd) Master thesis, 2025
 - Salin,H. [*On Russell’s Paradox and Attempted Resolutions*](http://www.diva-portal.org/smash/record.jsf?dswid=-5163&pid=diva2%3A1767620&c=5&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (3rd) Bachelor thesis, 2023
