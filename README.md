@@ -1,7 +1,7 @@
 ## Hannes Salin
 
 <img src="/hannes-du-profile.jpeg" alt="Picture of Hanne Salin" style="width:200px; float:left; margin-right:10px;"/>
-I am currently the head of department (leading leaders) of Digitalization and Transportation Systems at the Swedish Transport Administration (STA), within the Division of Information and Communication Technology (ICT), managing a department of more than 400 software engineers, test leaders, requirement specialists, architects, project leaders, engineering managers and many other roles. Except my full-time work at STA, I am also working towards a PhD in cryptography, under the supervision of associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/) at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). My main research focus is secure multi-party signature schemes for connected and distributed infrastructures such as VANET and smart railway eco-systems. Particular interests within cryptography are provable security, signature schemes, and cryptographic accumulators. I am also working towards a PhD in [data analytics](https://www.du.se/en/research/doctoral-studies/doctoral-programme-in-microdata-analysis/) at [Dalarna University](https://www.du.se/en), under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering and (agile) software development, with a particular focus on inter- and transdisciplinary methods for managerial decision-making, combining organizational- and management theory with statistical analysis and data science.  
+I am currently the CTO for Software Engineering at the Swedish Transport Administration (STA), within the Division of Information and Communication Technology (ICT). I am also the Head of department Digitalization and Transportation Systems, managing a department of more than 400 software engineers, quality assurance engineers, requirement specialists, architects, project leaders, engineering managers and many other roles. Except my full-time work at STA, I am also working towards a PhD in cryptography, under the supervision of associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/) at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). My main research focus is secure multi-party signature schemes for connected and distributed infrastructures such as VANET and smart railway eco-systems. Particular interests within cryptography are provable security, signature schemes, and cryptographic accumulators. I am also working towards a PhD in [data analytics](https://www.du.se/en/research/doctoral-studies/doctoral-programme-in-microdata-analysis/) at [Dalarna University](https://www.du.se/en), under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering and (agile) software development, with a particular focus on inter- and transdisciplinary methods for managerial decision-making, combining organizational- and management theory with statistical analysis and data science.  
 
 I have more than **7 years** of experience as a security software engineer and system developer with focus on IT-security and secure software development, and **6 years** of experience as a manager including middle- and top management levels. I have primarily worked within finance and banking, and more recently the transport infrastructure domain. For a more detailed summary of my professional activities, [go here](roles.md). **Since 2021 I am holding a senior IEEE membership**.
 
@@ -52,6 +52,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 ## Academic Responsibilities
 Peer-revewing and program chair responsibilites.
+- Program chair for [*SAC 2026: Lean and Agile Software Development track*](https://lasd.pl)
 - Program chair for [*ISD 2025: Lean and Agile Software Development track*](https://isd2025.fon.bg.ac.rs/tracks/#track-3)
 - Program chair for [*ISD 2024: Lean and Agile Software Development track*](https://isd2024.ug.edu.pl/call-for-papers/tracks/#track_3)
 - Program chair for [*XP 2024: Poster track*](https://www.agilealliance.org/xp2024/posters/)
@@ -101,10 +102,10 @@ Supervision and mentoring of master and bachelor thesis student projects with to
 
 ## Education
 
-- Wrocław University of Science and Technology, Poland, PhD in Cryptography, - ongoing (expected 2025)
 - Dalarna University, Sweden, PhD in Data Analytics, - ongoing (expected 2026/27)
+- Wrocław University of Science and Technology, Poland, PhD in Cryptography, - ongoing (expected 2025)
 - Blekinge Institute of Technology, Master in Business Administration (MBA), 2025
-     - [*Thesis*](www.bth.se) 
+     - [*Thesis*](https://www.diva-portal.org/smash/get/diva2:1979684/FULLTEXT01.pdf) 
 - Umeå University, Bachelor of Arts (BA) in Philosophy, 2023
      - [*Thesis*](http://www.diva-portal.org/smash/record.jsf?dswid=-5163&pid=diva2%3A1767620&c=5&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 - Umeå University, Bachelor of Science (B.Sc.) in Mathematics, 2021
