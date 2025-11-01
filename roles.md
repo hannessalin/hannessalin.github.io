@@ -1,9 +1,10 @@
 # Swedish Transport Administration (Trafikverket)
 ## Head of department Digitalization and Transport Systems, 2024-04-01 - present
-- Established a new department and management team.
-- Leading leaders (responsible for a management team of 6 unit managers), in total 400 employees and consultants including engineering managers, software developers, architects, project managers and many more roles.
-- Initiated and established DevEx capabilities including developer portal and active research.
-- Part of steering commitee of ETSI quantum security group.
+- Established a new department and recruited a management team.
+- Leading leaders (responsible for a management team of 6 unit managers), over 400 employees and consultants including engineering managers, software developers, architects, project managers and many other roles.
+- Initiated and established DevEx and DevRel capabilities including developer portal, inner sourcing, community building and practices
+- Active research and innovation initatives in empirical software engineering.
+- Part of steering commitee of ETSI quantum technology group.
 - Supervisor to master thesis students.
 - Recruitment of unit managers (leading leaders).
 
