@@ -63,6 +63,7 @@ Accepted research grant applications.
 -  [*Social-psychological aspects of secure agile software engineering (Psycurity)*](https://foiportalen.trafikverket.se/seprojekt/586), TRV 2025/26918, Trafikverket Forskning och Innovation (FOI), **2 million SEK**, co-applicant: [*Lucas Gren*](https://scholar.google.se/citations?user=i4OdPVQAAAAJ&hl=sv), Göteborg University.
 
 ## Thesis Work
+- Salin, H. [*Secure Multi-Party Schemes for Intelligent Connected Infrastructures*](https://bip.pwr.edu.pl/fcp/mGBUKOQtTKlQhbx08SlkTVxZeUTgtCgg9ACFDC0RPTnVBG1gnBVcoFW8SBDRKHg/4/public/bip/doktoraty/salin_h/hannes_salin_rozprawa_phd.pdf), PhD thesis, 2025
 - Salin, H., Gkougkaras, V. [*The Effects of Cybersecurity Training for Software Development Organizations*](www.bth.se), (2nd) Master thesis, 2025
 - Salin,H. [*On Russell’s Paradox and Attempted Resolutions*](http://www.diva-portal.org/smash/record.jsf?dswid=-5163&pid=diva2%3A1767620&c=5&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (3rd) Bachelor thesis, 2023
 - Salin,H. [*Pairing-Based Cryptography in Theory and Practice*](https://www.diva-portal.org/smash/record.jsf?dswid=-7261&pid=diva2%3A1566787&c=2&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22cryptography%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all), (2nd) Bachelor thesis, 2021
@@ -104,7 +105,7 @@ Supervision and mentoring of master and bachelor thesis student projects with to
 
 - Dalarna University, Sweden, PhD in Data Analytics, - ongoing (expected 2026/27)
 - Wrocław University of Science and Technology, Poland, PhD in Cryptography, 2025
-     -[*Thesis*](https://bip.pwr.edu.pl/fcp/mGBUKOQtTKlQhbx08SlkTVxZeUTgtCgg9ACFDC0RPTnVBG1gnBVcoFW8SBDRKHg/4/public/bip/doktoraty/salin_h/hannes_salin_rozprawa_phd.pdf) 
+     - [*Thesis*](https://bip.pwr.edu.pl/fcp/mGBUKOQtTKlQhbx08SlkTVxZeUTgtCgg9ACFDC0RPTnVBG1gnBVcoFW8SBDRKHg/4/public/bip/doktoraty/salin_h/hannes_salin_rozprawa_phd.pdf) 
 - Blekinge Institute of Technology, Master in Business Administration (MBA), 2025
      - [*Thesis*](https://www.diva-portal.org/smash/get/diva2:1979684/FULLTEXT01.pdf) 
 - Umeå University, Bachelor of Arts (BA) in Philosophy, 2023
