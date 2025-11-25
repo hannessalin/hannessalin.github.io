@@ -54,7 +54,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 ## Academic Responsibilities
 Peer-revewing, program chair, and journal reviewer responsibilites.
-- Reviewer for [*Journal of Information Security and Applications*](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications), cryptography focus 
+- Reviewer for [*Journal of Information Security and Applications*](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications) 
 - Program chair for [*SAC 2026: Lean and Agile Software Development track*](https://lasd.pl)
 - Program chair for [*ISD 2025: Lean and Agile Software Development track*](https://isd2025.fon.bg.ac.rs/tracks/#track-3)
 - Program chair for [*ISD 2024: Lean and Agile Software Development track*](https://isd2024.ug.edu.pl/call-for-papers/tracks/#track_3)
