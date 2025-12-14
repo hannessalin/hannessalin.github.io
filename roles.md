@@ -1,4 +1,7 @@
 # Swedish Transport Administration (Trafikverket)
+## CTO Software Engineering, 2025-10-31 - present
+- Responsible for all strategic work in software engineering
+
 ## Head of department Digitalization and Transport Systems, 2024-04-01 - present
 - Established a new department and recruited a management team.
 - Leading leaders (responsible for a management team of 6 unit managers), over 400 employees and consultants including engineering managers, software developers, architects, project managers and many other roles.
