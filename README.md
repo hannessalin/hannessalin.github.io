@@ -5,9 +5,9 @@ I am currently the CTO for Software Engineering at the Swedish Transport Adminis
 
 I hold a PhD degree in cryptography from [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), with a research focus in secure multi-party signature schemes for connected and distributed infrastructures such as VANET and smart railway eco-systems; conducted under supervison from associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/). Except my full-time work at STA, I am also working towards a PhD in [data analytics](https://www.du.se/en/research/doctoral-studies/data-analytics/) at [Dalarna University](https://www.du.se/en), under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering and (agile) software development, with a particular focus on inter- and transdisciplinary methods for managerial decision-making, combining organizational- and management theory with statistical analysis and data science.  
 
-I have more than **7 years** of experience as a security software engineer and system developer with focus on IT-security and secure software development, and **6 years** of experience as a manager including middle- and top management levels. I have primarily worked within finance and banking, and more recently the transport infrastructure domain. For a more detailed summary of my professional activities, [go here](roles.md). **Since 2021 I am holding a senior IEEE membership**.
+I have more than **7 years** of experience as a security software engineer and system developer with focus on IT-security and secure software development, and **7 years** of experience as a manager including middle- and top management levels. I have primarily worked within finance and banking, and more recently the transport infrastructure domain. For a more detailed summary of my professional activities, [go here](roles.md). **Since 2021 I am holding a senior IEEE membership**.
 
-In my spare time, excluding research, I spend a lot of time with my family, running, weightlifting, hiking, cross-country skiing, training karate and thai boxing, reading fiction, philosophy and mathematics, and occasionally play and construct board games. 
+In my spare time, excluding research, I spend a lot of time with my family, running, weightlifting, hiking, cross-country skiing, training karate and muay thai, reading fiction, philosophy and mathematics, and occasionally play and construct board games. 
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35">[GitHub](https://github.com/hannessalin)&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" width="35">[Google Scholar](https://scholar.google.com/citations?user=yh4HgFMAAAAJ&hl=sv&oi=ao)&nbsp;&nbsp;
@@ -123,17 +123,18 @@ Supervision and mentoring of master and bachelor thesis student projects with to
     - [*Thesis*](http://www.diva-portal.org/smash/record.jsf?dswid=-7649&pid=diva2%3A654430&c=3&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) 
 - KTH Royal Institute of Technology, Bachelor of Science (B.Sc.) in Computer Science & Engineering, 2011
     - [*Thesis*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A654303&dswid=-9007)
-- Army ranger squad leader in the [Swedish Army Ranger Batalion](https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/?TSPD_101_R0=08054bd396ab20005ebc657309951d0f50fc33e0f93393dcfedd8f94f9747cb8862ab6422333eadc08a148d1b914300052b41cb2294bea8a7859c8b33df9544f85dbac772ffce7b3bde13bb377f522561bc6a680715ef23588ef2f5541303bb2), responsible for a ranger squad working primarily with reconnaissance, demolition, and combat operations behind enemy lines in subarctic or otherwise difficult environments. 2005-2006
+- Army ranger squad leader in the [Swedish Army Ranger Batalion](https://www.forsvarsmakten.se/sv/organisation/norrlands-dragonregemente-k-4/?TSPD_101_R0=08054bd396ab20005ebc657309951d0f50fc33e0f93393dcfedd8f94f9747cb8862ab6422333eadc08a148d1b914300052b41cb2294bea8a7859c8b33df9544f85dbac772ffce7b3bde13bb377f522561bc6a680715ef23588ef2f5541303bb2), responsible for a ranger squad primarily focused on reconnaissance, demolition, and combat operations behind enemy lines in subarctic or otherwise difficult environments. 2005-2006
  
 ## Languages
 
 - Swedish (native)
 - English (professional)
-- French (beginner, A1)
+- French (beginner)
+- Finnish (beginner)
 
 ## Athletic Achievements and Other Accomplishments
 
-- B-level instructor license in Karate, [Karate Sweden](https://www.karatesweden.se)
+- A-level instructor license in Karate, [Karate Sweden](https://www.karatesweden.se)
 - 6th place (of 64 teams), [Para Endurance Race 2019](https://paraendurance.org), 70 km rucking and land navigation
 
 ## References
