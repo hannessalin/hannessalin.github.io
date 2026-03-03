@@ -97,6 +97,7 @@ Supervision and mentoring of master and bachelor thesis student projects with to
 - 2017: Supervisor to Joel Gärtner for master thesis [*Analysis of Entropy Usage in Random Number Generators*](http://www.diva-portal.org/smash/get/diva2:1141835/FULLTEXT01.pdf)
 
 ## Selected Invited Lectures and Public Talks
+- [Lecture on the use of AI assisted Software Development, AI och the Schedule conference, Dalarna University, 2026](https://www.du.se/sv/om-oss/konferenser/ai-pa-schemat--perspektiv-metoder-och-arbetssatt-for-utbildning-forskning-och-pedagogisk-utveckling/)
 - [Lecure on Esoteric Cryptography, Invited lecture, Skövde University, 2024](https://www.his.se/en/education/informatics/privacy-information-and-cyber-security-masters-programme-iicma/)
 - [Lecure on Data-Driven Decision-Making and Agility, The Swedish Academy of Board Directors, 2023](https://www.styrelseakademien.se/aktiviteter)
 - [Lecure on Randomness in Cryptography, Invited lecture, Skövde University, 2023](https://www.his.se/en/education/informatics/privacy-information-and-cyber-security-masters-programme-iicma/)
