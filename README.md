@@ -38,7 +38,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 ## Publications relevant to my PhD in Data Analytics
 - Salin,H., Rybarczyk, Y., Nyberg, R. G. and Han,M, [*Optimizing Managerial Decision-Making Through Agile Practices: A Software Engineering Management Team Perspective*](https://onlinelibrary.wiley.com/doi/10.1002/smr.70095), Journal of Software: Evolution and Process38, no. 3 (2026): e70095, https://doi.org/10.1002/smr.70095.
 - Salin, H., Klotins, E., & Zabardast, E. [*Hindrances and Strengths in Software Delivery: Insights from a Developer Experience Study at the Swedish Transport Administration*](https://link.springer.com/chapter/10.1007/978-3-032-12092-2_8). In International Conference on Product-Focused Software Process Improvement (pp. 120-135). Cham: Springer Nature Switzerland.
-- Salin, H. [*Building a Decision Landscape Model for Software Development: From Empirical Insights to Formal Theory*]([https://www.scitepress.org/](https://www.scitepress.org/Papers/2025/134573/134573.pdf))  In Proceedings of the 10th International Conference on Internet of Things, Big Data and Security - IoTBDS; ISBN 978-989-758-750-4; ISSN 2184-4976, SciTePress, pages 281-288
+- Salin, H. [*Building a Decision Landscape Model for Software Development: From Empirical Insights to Formal Theory*](https://www.scitepress.org/Papers/2025/134573/134573.pdf)  In Proceedings of the 10th International Conference on Internet of Things, Big Data and Security - IoTBDS; ISBN 978-989-758-750-4; ISSN 2184-4976, SciTePress, pages 281-288
 - Salin, H. [*The Game of One More Idea 2.0: A Comparative Study of Gamified Decision-Making and Brainstorming in Software Engineering*](https://www.scitepress.org) Accepted to Communications in Computer and Information Science book series, 2025. Springer.
 - Salin, H. [*The Game of One More Idea - Gamification of Managerial Group Decision-Making in Software Engineering*](https://www.scitepress.org/Papers/2024/128454/128454.pdf) In 19th International Conference on Software Technologies ICSOFT, 2024, Dijon, France (pp. 59-66). SciTePress.
 - Salin, H. [*A Stochastic Approach Based on Rational Decision-Making for Analyzing Software Engineering Project Status*](https://link.springer.com/chapter/10.1007/978-3-031-49266-2_12)). In International Conference on Product-Focused Software Process Improvement (pp.175–182). Springer, Cham., 2023
@@ -65,6 +65,9 @@ Peer-revewing, program chair, and journal reviewer responsibilites.
 - Program chair for [*ISD 2024: Lean and Agile Software Development track*](https://isd2024.ug.edu.pl/call-for-papers/tracks/#track_3)
 - Program chair for [*XP 2024: Poster track*](https://www.agilealliance.org/xp2024/posters/)
 - Session chair for [*IoTBDS 2023: Internet of Things track*](https://www.insticc.org/node/TechnicalProgram/IoTBDS/2023/session/P21944)
+
+## PhD Student Supervision
+- Co-supervisor to PhD candidate [*Krzysztof Tałałaj*](https://cs.pwr.edu.pl/talalaj/), Wrocław University of Science and Technology (2026 - ongoing)
 
 ## Grants
 Accepted research grant applications.
