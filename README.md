@@ -1,7 +1,7 @@
 ## Hannes Salin
 
 <img src="/hannes-du-profile.jpeg" alt="Picture of Hanne Salin" style="width:200px; float:left; margin-right:10px;"/>
-I am currently the CTO for Software Engineering at the Swedish Transport Administration (STA), within the Division of Information and Communication Technology (ICT). I am also the Head of department Digitalization and Transportation Systems, managing a department of more than 400 software engineers, quality assurance engineers, requirement specialists, architects, project leaders, engineering managers and many other roles.
+I am currently the Head of CTO Office and vice CTO at the Swedish Transport Administration (STA), focusing on strategic technology and architecure for software engineering, IT infrastrcuture, telecom and IT/OT.
 
 I hold a PhD degree in cryptography from [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), with a research focus in secure multi-party signature schemes for connected and distributed infrastructures such as VANET and smart railway eco-systems; conducted under supervison from associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/). Except my full-time work at STA, I am also working towards a PhD in [data analytics](https://www.du.se/en/research/doctoral-studies/data-analytics/) at [Dalarna University](https://www.du.se/en), under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering and (agile) software development, with a particular focus on inter- and transdisciplinary methods for managerial decision-making, combining organizational- and management theory with statistical analysis and data science.  
 
@@ -69,6 +69,7 @@ Peer-revewing, program chair, and journal reviewer responsibilites.
 
 ## PhD Student Supervision
 - Co-supervisor to PhD candidate [*Krzysztof Tałałaj*](https://cs.pwr.edu.pl/talalaj/), Wrocław University of Science and Technology (2026 - ongoing)
+- Co-supervisor to PhD candidate [*Karol Niczyj*](https://www.researchgate.net/scientific-contributions/Karol-Niczyj-2265608120), Wrocław University of Science and Technology (2026 - ongoing)
 
 ## Grants
 Accepted research grant applications.
