@@ -2,10 +2,6 @@
 ## Head of CTO office, vice CTO, 2026-06-01 - present
 - Established a new department and recruitment
 - Responsible for all strategic work in software engineering, IT- and telecom architecture, IT infrastructure and all other ICT areas
- 
-## CTO Software Engineering, 2025-11-01 - 2026-05-31
-- Virtual role parallel with my role as Head of department Digitalization and Transport Systems
-- Responsible for all strategic work in software engineering
 
 ## Head of department Digitalization and Transport Systems, 2024-04-01 - 2026-05-31
 - Established a new department and recruited a management team.
@@ -15,6 +11,7 @@
 - Part of steering commitee of ETSI quantum technology group.
 - Supervisor to master thesis students.
 - Recruitment of unit managers (leading leaders).
+- Virtual role as CTO Lead Software Engineering in parallel with my role as Head of department Digitalization and Transport Systems between 2025-11-01 and 2026-05-31, before CTO office was established 2026-06-01.
 
 ## Head of department Transport IT, 2021-10-01 - 2024-03-31
 - Leading two departments concurrently with two management teams, in total around 350 employees and consultants between 2024-01-01 to 2024-04-01.
