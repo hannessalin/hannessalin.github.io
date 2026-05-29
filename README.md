@@ -1,7 +1,7 @@
 ## Hannes Salin
 
 <img src="/hannes-du-profile.jpeg" alt="Picture of Hanne Salin" style="width:200px; float:left; margin-right:10px;"/>
-I am currently the Head of CTO Office and vice CTO at the Swedish Transport Administration (STA), focusing on strategic technology and architecure for software engineering, IT infrastrcuture, telecom and IT/OT.
+I am currently the Head of CTO Office and vice CTO at the Swedish Transport Administration (STA), focusing on technology and enterprise architecure for software engineering, IT infrastrcuture, telecom and the remaining ICT landscape, including decision- and operational models, and R&D operations.
 
 I hold a PhD degree in cryptography from [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), with a research focus in secure multi-party signature schemes for connected and distributed infrastructures such as VANET and smart railway eco-systems; conducted under supervison from associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/). Except my full-time work at STA, I am also working towards a PhD in [data analytics](https://www.du.se/en/research/doctoral-studies/data-analytics/) at [Dalarna University](https://www.du.se/en), under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering and (agile) software development, with a particular focus on inter- and transdisciplinary methods for managerial decision-making, combining organizational- and management theory with statistical analysis and data science.  
 
