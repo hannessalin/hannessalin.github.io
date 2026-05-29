@@ -1,18 +1,23 @@
 # Swedish Transport Administration (Trafikverket)
-## CTO Software Engineering, 2025-11-01 - present
+## Head of CTO office, vice CTO, 2026-06-01 - present
+- Established a new department and recruitment
+- Responsible for all strategic work in software engineering, IT- and telecom architecture, IT infrastructure and all other ICT areas
+ 
+## CTO Software Engineering, 2025-11-01 - 2026-05-31
+- Virtual role parallel with my role as Head of department Digitalization and Transport Systems
 - Responsible for all strategic work in software engineering
 
-## Head of department Digitalization and Transport Systems, 2024-04-01 - present
+## Head of department Digitalization and Transport Systems, 2024-04-01 - 2026-05-31
 - Established a new department and recruited a management team.
-- Leading leaders (responsible for a management team of 6 unit managers), over 400 employees and consultants including engineering managers, software developers, architects, project managers and many other roles.
-- Initiated and established DevEx and DevRel capabilities including developer portal, inner sourcing, community building and practices
+- Leading leaders (responsible for a management team of 6 unit managers), over 350 employees and consultants including engineering managers, software developers, architects, project managers and many other roles.
+- Initiated and established DevEx and DevRel capabilities including developer portal, inner sourcing, community building and practices, including the establishment of Developer Experience Office.
 - Active research and innovation initatives in empirical software engineering.
 - Part of steering commitee of ETSI quantum technology group.
 - Supervisor to master thesis students.
 - Recruitment of unit managers (leading leaders).
 
 ## Head of department Transport IT, 2021-10-01 - 2024-03-31
-- Leading two departments concurrently with two management teams, in total around 400 employees and consultants between 2024-01-01 to 2024-04-01.
+- Leading two departments concurrently with two management teams, in total around 350 employees and consultants between 2024-01-01 to 2024-04-01.
 - Leading leaders (responsible for a management team of 4 unit managers), in total 70 employees and consultants between 2021-10-01 to 2023-12-31.
 - Initiated and established Security Champions in the department.
 - Initiated and established a Cooperative Intelligent Transportation System (C-ITS) expert function for the ICT organization.
