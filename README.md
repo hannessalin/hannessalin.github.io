@@ -87,21 +87,30 @@ Accepted research grant applications.
 
 Supervision and mentoring of master and bachelor thesis student projects with topics primarily on cryptography and IT-security. My contribution included the specification of problem statements, ideas for research, supervising students in research methodology, scientific writing and cryptography. The main responsibilities except supervising activities, was to announce and execute projects, interview candidates and jointly with academia approve resulting master thesis reports.
 
-- 2026: Supervisor to Kishor Peneff and Jonathan Fogelström for master thesis [*Improving Productivity and Motivation: Success Factors for DevEx and DevRel during onboarding in the Public Sector*](http://www.diva-portal.org)
-- 2025: Supervisor to Wilhelm Ahlqvist and Gabriel Diskay for master thesis [*Software Cost Estimation in Practice: A case-study on evaluating, validating, and implementing an estimation model for real-world use*](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1999470&dswid=5693)
-- 2024: Supervisor to Pontus Persman for master thesis [*Towards a Framework for Holistically Managing Technical Debt in Software Systems: A Case Study*](http://kth.diva-portal.org/smash/get/diva2:1911810/FULLTEXT01.pdf)
-- 2023: Supervisor to Siri Nordlander for master thesis [*Implementation of Intelligent Transport Systems Within Road Transport – An Investigation of the Current Implementation and an Exploration of the Potential and Intentions of Future Implementations*](http://www.diva-portal.org/smash/record.jsf?dswid=-8382&pid=diva2%3A1772437&c=2&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
-- 2021: Supervisor to Emilia Dunfelt for bachelor thesis [*Cloud Data Storage: Review and Comparison of Cryptographic Methods*](https://kurser.math.su.se/pluginfile.php/105616/mod_folder/content/0/2021/2021_dunfelt_emilia.pdf?forcedownload=1)
-- 2021: Supervisor to Malcolm Toräng for master thesis [*Random Projections in a Distributed Environment for Privacy-Preserved Deep Learning*](http://www.diva-portal.org/smash/record.jsf?dswid=-8382&pid=diva2%3A1617523&c=1&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22Malcolm+toräng%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
-- 2021: Supervisor to Andreas Wallström for master thesis [*Guidance on Implementing Agile Software Development Methods within a Traditional Environment*](http://www.diva-portal.org/smash/get/diva2:1564894/FULLTEXT01.pdf)
-- 2020: Supervisor to Nick Nyman for master thesis [*Threat Awareness in Agile Environments: Creating a Developer-Driven Threat Modeling Process for Agile Software Development Teams*](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-276440)
-- 2020: Supervisor to Hannes Lindström for master thesis [*Zero-Knowledge Set Membership Proofs Using Bilinear-Map Accumulators*](http://www.diva-portal.org/smash/get/diva2:1498867/FULLTEXT01.pdf)
-- 2019: Supervisor to Alexander Johansson for master thesis [*Performance analysis of lattice based post-quantum secure cryptography with Java*](http://umu.diva-portal.org/smash/get/diva2:1362877/FULLTEXT01.pdf)
-- 2019: Supervisor to Eleni Zikopi for master thesis [*A case study research on Scrum Framework*](http://kth.diva-portal.org/smash/get/diva2:1337239/FULLTEXT01.pdf)
-- 2019: Supervisor to Sam Tabibzadeh for master thesis [*Inter-Domain Electronic Identification: Challenges, Benefits and Needs*](http://www.diva-portal.org/smash/get/diva2:1326446/FULLTEXT01.pdf)
-- 2018: Supervisor to Dennis Fokin for master thesis [*A secure multi-party scheme with certificateless cryptography for secret key extraction*](http://kth.diva-portal.org/smash/get/diva2:1229379/FULLTEXT01.pdf)
-- 2017: Supervisor to Anton Lindqvist for master thesis [*Privacy Preserving Audit Proofs*](http://www.diva-portal.org/smash/get/diva2:1119313/FULLTEXT02.pdf)
-- 2017: Supervisor to Joel Gärtner for master thesis [*Analysis of Entropy Usage in Random Number Generators*](http://www.diva-portal.org/smash/get/diva2:1141835/FULLTEXT01.pdf)
+- **2026**
+  - Supervisor to Kishor Peneff and Jonathan Fogelström for master thesis [*Improving Productivity and Motivation: Success Factors for DevEx and DevRel during onboarding in the Public Sector*](http://www.diva-portal.org)
+- **2025**
+  - Supervisor to Wilhelm Ahlqvist and Gabriel Diskay for master thesis [*Software Cost Estimation in Practice: A case-study on evaluating, validating, and implementing an estimation model for real-world use*](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1999470&dswid=5693)
+- **2024**
+  - Supervisor to Pontus Persman for master thesis [*Towards a Framework for Holistically Managing Technical Debt in Software Systems: A Case Study*](http://kth.diva-portal.org/smash/get/diva2:1911810/FULLTEXT01.pdf)
+- **2023**
+  - Supervisor to Siri Nordlander for master thesis [*Implementation of Intelligent Transport Systems Within Road Transport – An Investigation of the Current Implementation and an Exploration of the Potential and Intentions of Future Implementations*](http://www.diva-portal.org/smash/record.jsf?dswid=-8382&pid=diva2%3A1772437&c=2&searchType=SIMPLE&language=sv&query=hannes+salin&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
+- **2021**
+  - Supervisor to Emilia Dunfelt for bachelor thesis [*Cloud Data Storage: Review and Comparison of Cryptographic Methods*](https://kurser.math.su.se/pluginfile.php/105616/mod_folder/content/0/2021/2021_dunfelt_emilia.pdf?forcedownload=1)
+  - Supervisor to Malcolm Toräng for master thesis [*Random Projections in a Distributed Environment for Privacy-Preserved Deep Learning*](http://www.diva-portal.org/smash/record.jsf?dswid=-8382&pid=diva2%3A1617523&c=1&searchType=UNDERGRADUATE&language=sv&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22Malcolm+toräng%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
+  - Supervisor to Andreas Wallström for master thesis [*Guidance on Implementing Agile Software Development Methods within a Traditional Environment*](http://www.diva-portal.org/smash/get/diva2:1564894/FULLTEXT01.pdf)
+- **2020**
+  - Supervisor to Nick Nyman for master thesis [*Threat Awareness in Agile Environments: Creating a Developer-Driven Threat Modeling Process for Agile Software Development Teams*](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-276440)
+  - Supervisor to Hannes Lindström for master thesis [*Zero-Knowledge Set Membership Proofs Using Bilinear-Map Accumulators*](http://www.diva-portal.org/smash/get/diva2:1498867/FULLTEXT01.pdf)
+- **2019**
+  - Supervisor to Alexander Johansson for master thesis [*Performance analysis of lattice based post-quantum secure cryptography with Java*](http://umu.diva-portal.org/smash/get/diva2:1362877/FULLTEXT01.pdf)
+  - Supervisor to Eleni Zikopi for master thesis [*A case study research on Scrum Framework*](http://kth.diva-portal.org/smash/get/diva2:1337239/FULLTEXT01.pdf)
+  - Supervisor to Sam Tabibzadeh for master thesis [*Inter-Domain Electronic Identification: Challenges, Benefits and Needs*](http://www.diva-portal.org/smash/get/diva2:1326446/FULLTEXT01.pdf)
+- **2018**
+  - Supervisor to Dennis Fokin for master thesis [*A secure multi-party scheme with certificateless cryptography for secret key extraction*](http://kth.diva-portal.org/smash/get/diva2:1229379/FULLTEXT01.pdf)
+- **2017**
+  - Supervisor to Anton Lindqvist for master thesis [*Privacy Preserving Audit Proofs*](http://www.diva-portal.org/smash/get/diva2:1119313/FULLTEXT02.pdf)
+  - Supervisor to Joel Gärtner for master thesis [*Analysis of Entropy Usage in Random Number Generators*](http://www.diva-portal.org/smash/get/diva2:1141835/FULLTEXT01.pdf)
 
 ## Selected Invited Lectures and Public Talks
 - [Lecture on the use of AI assisted Software Development, AI on the Schedule conference, Dalarna University, 2026](https://www.du.se/sv/om-oss/konferenser/ai-pa-schemat--perspektiv-metoder-och-arbetssatt-for-utbildning-forskning-och-pedagogisk-utveckling/)
