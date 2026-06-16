@@ -7,7 +7,7 @@ I hold a PhD degree in cryptography from [Wrocław University of Science and Tec
 
 I have more than **7 years** of experience as a security software engineer and system developer with focus on IT-security and secure software development, and **7 years** of experience as a manager including middle- and top management levels. I have primarily worked within finance and banking, and more recently the transport infrastructure domain. For a more detailed summary of my professional activities, [go here](roles.md). **Since 2021 I am holding a senior IEEE membership**.
 
-In my spare time, excluding research, I spend a lot of time with my family, running, weightlifting, hiking, cross-country skiing, training karate and muay thai, reading fiction, philosophy and mathematics, and occasionally play and construct board games. 
+In my spare time, excluding research, I spend a lot of time with my family, running, weightlifting, hiking, cross-country skiing, training karate and muay thai, reading fiction, philosophy and mathematics, and occasionally play and construct board games. My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) is 4.
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35">[GitHub](https://github.com/hannessalin)&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" width="35">[Google Scholar](https://scholar.google.com/citations?user=yh4HgFMAAAAJ&hl=sv&oi=ao)&nbsp;&nbsp;
