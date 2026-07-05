@@ -88,7 +88,7 @@ Accepted research grant applications.
 Supervision and mentoring of master and bachelor thesis student projects with topics primarily on cryptography and IT-security. My contribution included the specification of problem statements, ideas for research, supervising students in research methodology, scientific writing and cryptography. The main responsibilities except supervising activities, was to announce and execute projects, interview candidates and jointly with academia approve resulting master thesis reports.
 
 - **2026**
-  - Supervisor to Kishor Peneff and Jonathan Fogelström for master thesis [*Improving Productivity and Motivation: Success Factors for DevEx and DevRel during onboarding in the Public Sector*](http://www.diva-portal.org](http://www.diva-portal.org/smash/record.jsf?pid=diva2:2063831)
+  - Supervisor to Kishor Peneff and Jonathan Fogelström for master thesis [*Improving Productivity and Motivation: Success Factors for DevEx and DevRel during onboarding in the Public Sector*](http://www.diva-portal.org/smash/record.jsf?pid=diva2:2063831)
   - Supervisor to Hugo Mattsson for master thesis [*A Multidimensional Measure of Software Development Productivity: Development, Operationalization, and Application at the Swedish Transport Administration*](https://ltu.diva-portal.org/smash/record.jsf?pid=diva2:2071837)
 - **2025**
   - Supervisor to Wilhelm Ahlqvist and Gabriel Diskay for master thesis [*Software Cost Estimation in Practice: A case-study on evaluating, validating, and implementing an estimation model for real-world use*](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1999470&dswid=5693)
