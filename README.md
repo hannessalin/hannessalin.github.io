@@ -1,7 +1,7 @@
 ## Hannes Salin
 
 <img src="/hannes-du-profile.jpeg" alt="Picture of Hanne Salin" style="width:200px; float:left; margin-right:10px;"/>
-I am currently the Head of CTO Office and vice CTO at the Swedish Transport Administration (STA), focusing on technology and enterprise architecure for software engineering, IT infrastrcuture, telecom and the remaining ICT landscape, including decision- and operational models, and R&D operations.
+I am currently the Head of CTO Office and vice CTO at the Swedish Transport Administration (STA), focusing on technology and enterprise leadership for architecure, software engineering, IT infrastructure, telecom and the remaining ICT landscape, including decision- and operational models, and R&D.
 
 I hold a PhD degree in cryptography from [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), with a research focus in secure multi-party signature schemes for connected and distributed infrastructures such as VANET and smart railway eco-systems; conducted under supervison from associate professor [Łukasz Krzywiecki](https://cs.pwr.edu.pl/krzywiecki/). Except my full-time work at STA, I am also working towards a PhD in [data analytics](https://www.du.se/en/research/doctoral-studies/data-analytics/) at [Dalarna University](https://www.du.se/en), under the supervision of professor [Yves Rybarczyk](https://www.du.se/en/profile-page/?userId=1998846526). My research topic is data-driven decision management in software engineering and (agile) software development, with a particular focus on inter- and transdisciplinary methods for managerial decision-making, combining organizational- and management theory with statistical analysis and data science.  
 
@@ -88,7 +88,8 @@ Accepted research grant applications.
 Supervision and mentoring of master and bachelor thesis student projects with topics primarily on cryptography and IT-security. My contribution included the specification of problem statements, ideas for research, supervising students in research methodology, scientific writing and cryptography. The main responsibilities except supervising activities, was to announce and execute projects, interview candidates and jointly with academia approve resulting master thesis reports.
 
 - **2026**
-  - Supervisor to Kishor Peneff and Jonathan Fogelström for master thesis [*Improving Productivity and Motivation: Success Factors for DevEx and DevRel during onboarding in the Public Sector*](http://www.diva-portal.org)
+  - Supervisor to Kishor Peneff and Jonathan Fogelström for master thesis [*Improving Productivity and Motivation: Success Factors for DevEx and DevRel during onboarding in the Public Sector*](http://www.diva-portal.org](http://www.diva-portal.org/smash/record.jsf?pid=diva2:2063831)
+  - Supervisor to Hugo Mattsson for master thesis [*A Multidimensional Measure of Software Development Productivity: Development, Operationalization, and Application at the Swedish Transport Administration*](https://ltu.diva-portal.org/smash/record.jsf?pid=diva2:2071837)
 - **2025**
   - Supervisor to Wilhelm Ahlqvist and Gabriel Diskay for master thesis [*Software Cost Estimation in Practice: A case-study on evaluating, validating, and implementing an estimation model for real-world use*](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1999470&dswid=5693)
 - **2024**
