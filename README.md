@@ -49,6 +49,7 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 
 ## Other Publications
+- Usman, M., Linåker, J., Badampudi, D., Salin, H. [*Adopting InnerSource in a Public Sector Organization: A Case Study*](https://link.springer.com/chapter/10.1007/978-3-032-36587-3_26) In: Software Engineering and Advanced Applications. SEAA 2026. Lecture Notes in Computer Science, vol 16864. 2026.
 - Salin,H., Gkougkaras, V. [*From Intention to Adoption: Managerial Misalignment in Cybersecurity Training Investments for Software Development Organizations*](https://www.mdpi.com/2674-113X/4/4/25) Software, 4(4), 25. https://doi.org/10.3390/software4040025
 - Salin,H. [*Small Mistakes with Big Impacts: A Study on Secure Coding Practices in Java Open Source Projects*](https://link.springer.com/chapter/10.1007/978-3-031-89350-6_7) In: Collart-Dutilleul, S., Ouchani, S., Cuppens, N., Cuppens, F. (eds) Risks and Security of Internet and Systems. CRiSIS 2024. Lecture Notes in Computer Science, vol 15456. Springer, Cham.
 - Salin,H., Lundgren,M., [*A Gap Analysis of the Adoption Maturity of Certificateless Cryptography in Cooperative Intelligent Transportation Systems*](https://www.mdpi.com/2624-800X/3/3/28) Journal of Cybersecurity and Privacy 2023; 3(3), 591-609. 
