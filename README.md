@@ -90,6 +90,7 @@ Supervision and mentoring of master and bachelor thesis student projects with to
 - **2026**
   - Supervisor to Kishor Peneff and Jonathan Fogelström for master thesis [*Improving Productivity and Motivation: Success Factors for DevEx and DevRel during onboarding in the Public Sector*](http://www.diva-portal.org/smash/record.jsf?pid=diva2:2063831)
   - Supervisor to Hugo Mattsson for master thesis [*A Multidimensional Measure of Software Development Productivity: Development, Operationalization, and Application at the Swedish Transport Administration*](https://ltu.diva-portal.org/smash/record.jsf?pid=diva2:2071837)
+  - Supervisor to Filip Strand and Jonathan Jansson for bachelor thesis [*Generative AI and security considerations in software development: Perceptions and mitigation of risks regarding security among junior developers working in a Swedish government agency*](https://du.diva-portal.org/smash/get/diva2:2079740/FULLTEXT01.pdf)
 - **2025**
   - Supervisor to Wilhelm Ahlqvist and Gabriel Diskay for master thesis [*Software Cost Estimation in Practice: A case-study on evaluating, validating, and implementing an estimation model for real-world use*](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1999470&dswid=5693)
 - **2024**
