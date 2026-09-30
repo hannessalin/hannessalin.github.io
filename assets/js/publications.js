@@ -1,3 +1,0 @@
-let current='all';const pubs=[...document.querySelectorAll('.publication')],search=document.getElementById('pub-search');
-function apply(){const q=(search.value||'').toLowerCase();pubs.forEach(p=>{const cat=p.dataset.category||'';p.style.display=((current==='all'||cat.includes(current))&&p.textContent.toLowerCase().includes(q))?'block':'none'})}
-search.addEventListener('input',apply);document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.filter').forEach(x=>x.classList.remove('active'));b.classList.add('active');current=b.dataset.filter;apply()}));
