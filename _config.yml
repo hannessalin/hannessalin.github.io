@@ -2,8 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 title: Hannes Salin
-tagline: Technology leader and researcher
-description: >-
-  Head of CTO Office and vice CTO at the Swedish Transport
-  Administration. Research in software engineering,
-  cryptography, and cybersecurity.
+description: Technology leader and researcher in software engineering, cryptography and cybersecurity
