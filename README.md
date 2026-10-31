@@ -16,8 +16,8 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 
 
 
-## Publications in Cryptography
-
+## Publications
+### Cryptography
 1. Salin,H., [*A Comparative Analysis of Anonymous and Non-Anonymous Authorization Architectures for IoT Environments in Cooperative Intelligent Transport Systems*](https://www.scitepress.org/Papers/2025/133247/133247.pdf) In  Proceedings of the 10th International Conference on Internet of Things, Big Data and Security - Volume 1: IoTBDS; ISBN 978-989-758-750-4, SciTePress, pages 281-288.
 1.  Dzikowski,B., Krzywiecki, Ł., Możdżyński,K., Niczyj,K., Salin,H., [*Distributed Data Possession - Blockchain Based Scalability*](https://ieeexplore.ieee.org/abstract/document/10944841) In 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) (pp. 2523-2528). IEEE Computer Society.
 1. Ignasiak,K., Kowalczyk, W., Krzywiecki,Ł., Nasewicz,M., Salin,H., Zawada,M.,[*Privacy Preserving Real-Time Gesture Recognition using Cloud-Trained Neural Networks*](https://ieeexplore.ieee.org/abstract/document/10945162) In 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) (pp. 2388-2393). IEEE Computer Society.
@@ -34,9 +34,15 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 1. Drzazga,B., Krzywiecki, Ł., Salin, H., [*Cryptanalysis of Deterministic and Probabilistic  Multi-Copy PDP Schemes For Cloud Storage - Attacks and Countermeasures*](ieeexplore.ieee.org) 2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2021.
 1. Krzywiecki, Ł., Salin, H., Panwar,N., Pavlov,M., [*Proxy Signcryption Scheme for Vehicle Infrastructure Immune to Randomness Leakage and Setup Attacks*](https://ieeexplore.ieee.org/document/9306703), 2020 IEEE 19th International Symposium on Network Computing and Applications (NCA), Cambridge, MA, USA, 2020, pp. 1-8, doi: 10.1109/NCA51143.2020.9306703.
 
-## Publications in Data Analytics and Empirical Software Engineering
-16. Usman, M., Linåker, J., Badampudi, D., Salin, H. [*Adopting InnerSource in a Public Sector Organization: A Case Study*](https://link.springer.com/chapter/10.1007/978-3-032-36587-3_26) In: Software Engineering and Advanced Applications. SEAA 2026. Lecture Notes in Computer Science, vol 16864. 2026.
-17. Salin, H., Rybarczyk, Y., [*Decision-Making in Agile Software Engineering: A Systematic Literature Review of Models, Methods, Actors and Lifecycle Contexts*](https://www.mdpi.com/2674-113X/5/2/17), Software 2026, 5(2), 17; https://doi.org/10.3390/software5020017
+### Cybersecurity and Risk Management
+1. Salin,H., Gkougkaras, V. [*From Intention to Adoption: Managerial Misalignment in Cybersecurity Training Investments for Software Development Organizations*](https://www.mdpi.com/2674-113X/4/4/25) Software, 4(4), 25. https://doi.org/10.3390/software4040025
+1. Salin,H. [*Small Mistakes with Big Impacts: A Study on Secure Coding Practices in Java Open Source Projects*](https://link.springer.com/chapter/10.1007/978-3-031-89350-6_7) In: Collart-Dutilleul, S., Ouchani, S., Cuppens, N., Cuppens, F. (eds) Risks and Security of Internet and Systems. CRiSIS 2024. Lecture Notes in Computer Science, vol 15456. Springer, Cham.
+1. Salin,H., Lundgren,M., [*A Gap Analysis of the Adoption Maturity of Certificateless Cryptography in Cooperative Intelligent Transportation Systems*](https://www.mdpi.com/2624-800X/3/3/28) Journal of Cybersecurity and Privacy 2023; 3(3), 591-609. 
+1. Salin,H., Lundgren,M., [*Towards Agile Cybersecurity Risk Management for Autonomous Software Engineering Teams*](https://www.mdpi.com/2624-800X/2/2/15), Journal of Cybersecurity and Privacy 2 (2), 276-291
+
+### Empirical Software Engineering
+1. Usman, M., Linåker, J., Badampudi, D., Salin, H. [*Adopting InnerSource in a Public Sector Organization: A Case Study*](https://link.springer.com/chapter/10.1007/978-3-032-36587-3_26) In: Software Engineering and Advanced Applications. SEAA 2026. Lecture Notes in Computer Science, vol 16864. 2026.
+1. Salin, H., Rybarczyk, Y., [*Decision-Making in Agile Software Engineering: A Systematic Literature Review of Models, Methods, Actors and Lifecycle Contexts*](https://www.mdpi.com/2674-113X/5/2/17), Software 2026, 5(2), 17; https://doi.org/10.3390/software5020017
 1. Salin,H., Rybarczyk, Y., Nyberg, R. G. and Han,M, [*Optimizing Managerial Decision-Making Through Agile Practices: A Software Engineering Management Team Perspective*](https://onlinelibrary.wiley.com/doi/10.1002/smr.70095), Journal of Software: Evolution and Process38, no. 3 (2026): e70095, https://doi.org/10.1002/smr.70095.
 1. Salin, H., Klotins, E., & Zabardast, E. [*Hindrances and Strengths in Software Delivery: Insights from a Developer Experience Study at the Swedish Transport Administration*](https://link.springer.com/chapter/10.1007/978-3-032-12092-2_8). In International Conference on Product-Focused Software Process Improvement (pp. 120-135). Cham: Springer Nature Switzerland.
 1. Salin, H. [*Building a Decision Landscape Model for Software Development: From Empirical Insights to Formal Theory*](https://www.scitepress.org/Papers/2025/134573/134573.pdf)  In Proceedings of the 10th International Conference on Internet of Things, Big Data and Security - IoTBDS; ISBN 978-989-758-750-4; ISSN 2184-4976, SciTePress, pages 281-288
@@ -46,13 +52,6 @@ In my spare time, excluding research, I spend a lot of time with my family, runn
 1. Salin, H. [*Thrifty Guardians: Overcoming the Challenges of Establishing Security Champions on a Limited Budget*](https://ieeexplore.ieee.org/document/10371583) In 2023 49th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), Dürres, Albania, 2023 pp. X-Y.
 1. Salin, H., Albrecht, F., Skov, J. [*The Power of Scrum Mastery: An Analysis of Agile Team Performance and Scrum Master Influence*](https://www.scitepress.org/PublicationsDetail.aspx?ID=yL8/BLoiaIs=&t=1). In Proceedings of the 18th International Conference on Software Technologies, ISBN 978-989-758-665-1, ISSN 2184-2833, pages 377-384., 2023
 1. Salin, H., Rybarczyk, Y., Han, M., & Nyberg, R. G. [*Quality Metrics for Software Development Management and Decision Making: An Analysis of Attitudes and Decisions*](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_37). In International Conference on Product-Focused Software Process Improvement (pp. 525-530). Springer, Cham., 2022
-
-
-## Other Publications
-27. Salin,H., Gkougkaras, V. [*From Intention to Adoption: Managerial Misalignment in Cybersecurity Training Investments for Software Development Organizations*](https://www.mdpi.com/2674-113X/4/4/25) Software, 4(4), 25. https://doi.org/10.3390/software4040025
-1. Salin,H. [*Small Mistakes with Big Impacts: A Study on Secure Coding Practices in Java Open Source Projects*](https://link.springer.com/chapter/10.1007/978-3-031-89350-6_7) In: Collart-Dutilleul, S., Ouchani, S., Cuppens, N., Cuppens, F. (eds) Risks and Security of Internet and Systems. CRiSIS 2024. Lecture Notes in Computer Science, vol 15456. Springer, Cham.
-1. Salin,H., Lundgren,M., [*A Gap Analysis of the Adoption Maturity of Certificateless Cryptography in Cooperative Intelligent Transportation Systems*](https://www.mdpi.com/2624-800X/3/3/28) Journal of Cybersecurity and Privacy 2023; 3(3), 591-609. 
-1. Salin,H., Lundgren,M., [*Towards Agile Cybersecurity Risk Management for Autonomous Software Engineering Teams*](https://www.mdpi.com/2624-800X/2/2/15), Journal of Cybersecurity and Privacy 2 (2), 276-291
 
 ## Academic Responsibilities
 Peer-revewing, program chair, and journal reviewer responsibilites.
@@ -128,7 +127,7 @@ Supervision and mentoring of master and bachelor thesis student projects with to
 
 ## Education
 
-- Dalarna University, Sweden, PhD in Data Analytics within Computing - ongoing (expected late 2026)
+- Dalarna University, Sweden, PhD in Data Analytics within Computing - ongoing (expected early 2027)
 - Wrocław University of Science and Technology, Poland, PhD in Cryptography, 2025
      - [*Thesis*](https://bip.pwr.edu.pl/fcp/mGBUKOQtTKlQhbx08SlkTVxZeUTgtCgg9ACFDC0RPTnVBG1gnBVcoFW8SBDRKHg/4/public/bip/doktoraty/salin_h/hannes_salin_rozprawa_phd.pdf) 
 - Blekinge Institute of Technology, Master in Business Administration (MBA), 2025
